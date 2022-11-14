@@ -1,0 +1,4129 @@
+aal_01um-02uk.txt
+  Normalization file ended early
+   må
+  Normalization file ended early
+   ha
+  Normalization file ended early
+   jobb
+  Normalization file ended early
+   ve
+  Normalization file ended early
+   sia
+  Normalization file ended early
+   å
+  509 utterances, 3718 tokens
+aal_01um-sl.txt
+  Normalization file ended early
+   mm
+  114 utterances, 1762 tokens
+aal_02uk-amg.txt
+  206 utterances, 2210 tokens
+aal_03gm-04gk.txt
+  698 utterances, 6447 tokens
+aal_03gm-amg.txt
+  200 utterances, 2881 tokens
+aal_04gk-sl.txt
+  235 utterances, 2933 tokens
+aaseral_01um-02uk.txt
+  459 utterances, 4414 tokens
+aaseral_01um-sl.txt
+  162 utterances, 2633 tokens
+aaseral_02uk-sl.txt
+  210 utterances, 2600 tokens
+aaseral_03gm-04gk.txt
+  507 utterances, 5657 tokens
+aaseral_03gm-eo.txt
+  120 utterances, 2556 tokens
+alvdal_01um-02uk.txt
+  492 utterances, 4203 tokens
+alvdal_01um-jbj.txt
+  262 utterances, 2756 tokens
+alvdal_02uk-jbj.txt
+  392 utterances, 5080 tokens
+alvdal_03gm-04gk.txt
+  595 utterances, 6057 tokens
+alvdal_03gm-jbj.txt
+  200 utterances, 2838 tokens
+alvdal_04gk-jbj.txt
+  Normalization file ended early
+   ja
+  Normalization file ended early
+   du
+  Normalization file ended early
+   ee
+  Normalization file ended early
+   jeg
+  Normalization file ended early
+   tror
+  Normalization file ended early
+   vi
+  Normalization file ended early
+   skal
+  Normalization file ended early
+   rett_og_slett
+  Normalization file ended early
+   ee
+  Normalization file ended early
+   v-
+  Uncertain:
+   ja du ee jeg tror vi skal rett_og_slett ee v-
+            
+  Normalization file ended early
+   m
+  Uncertain:
+   du ee jeg tror vi skal rett_og_slett ee v- m
+            
+  Normalization file ended early
+   #
+  Uncertain:
+   ee jeg tror vi skal rett_og_slett ee v- m #
+            
+  Normalization file ended early
+   avslutte
+  Uncertain:
+   jeg tror vi skal rett_og_slett ee v- m # avslutte
+            
+  Normalization file ended early
+   det
+  Uncertain:
+   tror vi skal rett_og_slett ee v- m # avslutte det
+            
+  Normalization file ended early
+   er
+  Uncertain:
+   vi skal rett_og_slett ee v- m # avslutte det er
+            
+  Normalization file ended early
+   veldig
+  Uncertain:
+   skal rett_og_slett ee v- m # avslutte det er veldig
+            
+  Normalization file ended early
+   artig
+  Uncertain:
+   rett_og_slett ee v- m # avslutte det er veldig artig
+            
+  Normalization file ended early
+   å
+  Uncertain:
+   ee v- m # avslutte det er veldig artig å
+            
+  Normalization file ended early
+   sna-
+  Uncertain:
+   v- m # avslutte det er veldig artig å sna-
+            
+  247 utterances, 3039 tokens
+aremark_01um-02uk.txt
+  Normalization file ended early
+   ja
+  Normalization file ended early
+   #
+  Normalization file ended early
+   vi
+  Normalization file ended early
+   har
+  Normalization file ended early
+   værrt
+  Normalization file ended early
+   ijennom
+  Normalization file ended early
+   nesst'n
+  Normalization file ended early
+   alle
+  Normalization file ended early
+   nå
+  649 utterances, 4194 tokens
+aremark_01um-lh.txt
+  203 utterances, 2609 tokens
+aremark_02uk-lh.txt
+  205 utterances, 1678 tokens
+aremark_03gm-04gk.txt
+  618 utterances, 7892 tokens
+aremark_03gm-lh.txt
+  183 utterances, 3068 tokens
+aremark_04gk-rvf.txt
+  334 utterances, 3622 tokens
+aure_01um-02uk.txt
+  389 utterances, 3753 tokens
+aure_01um-ta.txt
+  153 utterances, 2227 tokens
+aure_02uk-ta.txt
+  189 utterances, 2371 tokens
+aure_03gm-04gk.txt
+  447 utterances, 4307 tokens
+aure_03gm-ta.txt
+  132 utterances, 2042 tokens
+aure_04gk-ta.txt
+  129 utterances, 2219 tokens
+ballangen_01um-02uk.txt
+  571 utterances, 3936 tokens
+ballangen_01um-kb.txt
+  129 utterances, 1629 tokens
+ballangen_02uk-kb.txt
+  149 utterances, 1759 tokens
+ballangen_03gm-04gk.txt
+  640 utterances, 7686 tokens
+ballangen_03gm-kb.txt
+  169 utterances, 2501 tokens
+ballangen_04gk-kb.txt
+  181 utterances, 2521 tokens
+beiarn_01um-02uk.txt
+  941 utterances, 7288 tokens
+beiarn_01um-kb.txt
+  225 utterances, 2946 tokens
+beiarn_02uk-kb.txt
+  Normalization file ended early
+   *
+  Normalization file ended early
+   *
+  Normalization file ended early
+   ja
+  Normalization file ended early
+   *
+  Normalization file ended early
+   ja
+  Normalization file ended early
+   *
+  Normalization file ended early
+   *
+  Normalization file ended early
+   ja
+  201 utterances, 2494 tokens
+beiarn_03gm-04gk.txt
+  604 utterances, 4307 tokens
+beiarn_03gm-kb.txt
+  291 utterances, 3098 tokens
+beiarn_04gk-kb.txt
+  251 utterances, 2551 tokens
+beiarn_05um-kb.txt
+  146 utterances, 2183 tokens
+bergen_01um-02uk.txt
+  Normalization file ended early
+   næi
+  Normalization file ended early
+   #
+  Normalization file ended early
+   så
+  Normalization file ended early
+   de
+  340 utterances, 3095 tokens
+bergen_01um-mi.txt
+  137 utterances, 2327 tokens
+bergen_02uk-sl.txt
+  161 utterances, 1702 tokens
+bergen_03gm-04gk.txt
+  Normalization file ended early
+   ja
+  Normalization file ended early
+   du
+  Normalization file ended early
+   må
+  Normalization file ended early
+   kje
+  Normalization file ended early
+   sna-
+  Normalization file ended early
+   no
+  Normalization file ended early
+   e
+  Normalization file ended early
+   vi
+  Normalization file ended early
+   kåmmt
+  Normalization file ended early
+   så
+  Uncertain:
+   ja du må kje sna- no e vi kåmmt så
+            
+  Normalization file ended early
+   gått
+  Uncertain:
+   du må kje sna- no e vi kåmmt så gått
+            
+  Normalization file ended early
+   i
+  Uncertain:
+   må kje sna- no e vi kåmmt så gått i
+            
+  Normalization file ended early
+   ganng
+  Uncertain:
+   kje sna- no e vi kåmmt så gått i ganng
+            
+  573 utterances, 5851 tokens
+bergen_03gm-mi.txt
+  Normalization file ended early
+   nå
+  Normalization file ended early
+   har
+  Normalization file ended early
+   jeg
+  Normalization file ended early
+   fått
+  Normalization file ended early
+   med
+  Normalization file ended early
+   meg
+  Normalization file ended early
+   #
+  Normalization file ended early
+   nok
+  Normalization file ended early
+   tid
+  Normalization file ended early
+   i_hvert_fall
+  Uncertain:
+   nå har jeg fått med meg # nok tid i_hvert_fall
+            
+  159 utterances, 2800 tokens
+bergen_04gk-sl.txt
+  229 utterances, 2622 tokens
+bjugn_15-19.txt
+  788 utterances, 6603 tokens
+bjugn_15-aml.txt
+  202 utterances, 2914 tokens
+bjugn_16-23.txt
+  378 utterances, 3669 tokens
+bjugn_16-ma.txt
+  335 utterances, 3054 tokens
+bjugn_19-aml.txt
+  178 utterances, 2442 tokens
+bjugn_23-pmk.txt
+  138 utterances, 2466 tokens
+bodoe_01um-02uk.txt
+  419 utterances, 4230 tokens
+bodoe_01um-kb.txt
+  151 utterances, 1532 tokens
+bodoe_02uk-kb.txt
+  130 utterances, 2034 tokens
+bodoe_03gm-04gk.txt
+  478 utterances, 5377 tokens
+bodoe_03gm-kb.txt
+  147 utterances, 2382 tokens
+bodoe_04gk-kb.txt
+  200 utterances, 2362 tokens
+boemlo_01um-02uk.txt
+  476 utterances, 4537 tokens
+boemlo_01um-sl.txt
+  227 utterances, 2444 tokens
+boemlo_02uk-eo.txt
+  106 utterances, 2139 tokens
+boemlo_03gm-04gk.txt
+  Normalization file ended early
+   eg
+  Normalization file ended early
+   har
+  Normalization file ended early
+   tje
+  Normalization file ended early
+   kunnskap
+  Normalization file ended early
+   nåkk
+  Normalization file ended early
+   te
+  617 utterances, 6447 tokens
+boemlo_03gm-sl.txt
+  253 utterances, 3932 tokens
+boemlo_04gk-eo.txt
+  Normalization file ended early
+   hm
+  Normalization file ended early
+   #
+  Normalization file ended early
+   se
+  Normalization file ended early
+   #
+  Normalization file ended early
+   ja
+  Normalization file ended early
+   #
+  Normalization file ended early
+   jeg
+  Normalization file ended early
+   tror
+  Normalization file ended early
+   det
+  Normalization file ended early
+   er
+  Uncertain:
+   hm # se # ja # jeg tror det er
+            
+  Normalization file ended early
+   bra
+  Uncertain:
+   # se # ja # jeg tror det er bra
+            
+  Normalization file ended early
+   jeg
+  Uncertain:
+   se # ja # jeg tror det er bra jeg
+            
+  Normalization file ended early
+   faktisk
+  Uncertain:
+   # ja # jeg tror det er bra jeg faktisk
+            
+  158 utterances, 2874 tokens
+botnhamn_03-06.txt
+  601 utterances, 7018 tokens
+botnhamn_03-mn.txt
+  Normalization file ended early
+   *
+  Normalization file ended early
+   ja
+  Normalization file ended early
+   *
+  Normalization file ended early
+   no
+  139 utterances, 2205 tokens
+botnhamn_06-jbj.txt
+  Normalization file ended early
+   *
+  Normalization file ended early
+   ja
+  126 utterances, 2115 tokens
+brekkom_01um-03gm.txt
+  Normalization file ended early
+   *
+  474 utterances, 4637 tokens
+brekkom_01um-sl.txt
+  Normalization file ended early
+   ja
+  94 utterances, 1367 tokens
+brekkom_02uk-04gk.txt
+  492 utterances, 4347 tokens
+brekkom_02uk-sl.txt
+  108 utterances, 1453 tokens
+brekkom_03gm-sl.txt
+  120 utterances, 1255 tokens
+brekkom_04gk-iii.txt
+  143 utterances, 1990 tokens
+brunlanes_01um-02uk.txt
+  890 utterances, 5806 tokens
+brunlanes_01um-ifg.txt
+  116 utterances, 2342 tokens
+brunlanes_02uk-ifg.txt
+  200 utterances, 2670 tokens
+brunlanes_03gm-04gk.txt
+  706 utterances, 5865 tokens
+brunlanes_03gm-ifg.txt
+  150 utterances, 2610 tokens
+brunlanes_04gk-ifg.txt
+  117 utterances, 2527 tokens
+bud_01um-02uk.txt
+  664 utterances, 6066 tokens
+bud_01um-ma.txt
+  149 utterances, 2166 tokens
+bud_02uk-ma.txt
+  155 utterances, 2287 tokens
+bud_03gm-04gk.txt
+  493 utterances, 4536 tokens
+bud_03gm-ma.txt
+  185 utterances, 2265 tokens
+bud_04gk-ma.txt
+  131 utterances, 2039 tokens
+dalsbygda_01um-02uk.txt
+  556 utterances, 5006 tokens
+dalsbygda_01um-ifg.txt
+  159 utterances, 2066 tokens
+dalsbygda_02uk-ifg.txt
+  212 utterances, 2691 tokens
+dalsbygda_03gm-04gk.txt
+  561 utterances, 5322 tokens
+dalsbygda_03gm-ifg.txt
+  190 utterances, 2547 tokens
+dalsbygda_04gk-ifg.txt
+  304 utterances, 2975 tokens
+darbu_01um-02uk.txt
+  562 utterances, 5451 tokens
+darbu_01um-sl.txt
+  189 utterances, 2211 tokens
+darbu_02uk-ks.txt
+  143 utterances, 2148 tokens
+darbu_03gm-04gk.txt
+  Normalization file ended early
+   nå
+  Normalization file ended early
+   ha
+  Normalization file ended early
+   vi
+  Normalization file ended early
+   snakka
+  Normalization file ended early
+   i
+  640 utterances, 5103 tokens
+darbu_03gm-sl.txt
+  Normalization file ended early
+   ja
+  Normalization file ended early
+   #
+  Normalization file ended early
+   men
+  Normalization file ended early
+   vi
+  Normalization file ended early
+   kan
+  Normalization file ended early
+   si
+  Normalization file ended early
+   at
+  Normalization file ended early
+   det
+  Normalization file ended early
+   er
+  Normalization file ended early
+   bra
+  Uncertain:
+   ja # men vi kan si at det er bra
+            
+  Normalization file ended early
+   for
+  Uncertain:
+   # men vi kan si at det er bra for
+            
+  Normalization file ended early
+   det
+  Uncertain:
+   men vi kan si at det er bra for det
+            
+  Normalization file ended early
+   var
+  Uncertain:
+   vi kan si at det er bra for det var
+            
+  Normalization file ended early
+   #
+  Uncertain:
+   kan si at det er bra for det var #
+            
+  Normalization file ended early
+   akkurat
+  Uncertain:
+   si at det er bra for det var # akkurat
+            
+  Normalization file ended early
+   ti
+  Uncertain:
+   at det er bra for det var # akkurat ti
+            
+  Normalization file ended early
+   minutter
+  Uncertain:
+   det er bra for det var # akkurat ti minutter
+            
+  179 utterances, 2242 tokens
+darbu_04gk-ks.txt
+  Normalization file ended early
+   lurer
+  Normalization file ended early
+   på
+  Normalization file ended early
+   om
+  Normalization file ended early
+   vi
+  Normalization file ended early
+   skal
+  Normalization file ended early
+   ta
+  Normalization file ended early
+   å
+  Normalization file ended early
+   høre
+  Normalization file ended early
+   om
+  Normalization file ended early
+   sl
+  Uncertain:
+   lurer på om vi skal ta å høre om sl
+            
+  Normalization file ended early
+   skal
+  Uncertain:
+   på om vi skal ta å høre om sl skal
+            
+  Normalization file ended early
+   komme
+  Uncertain:
+   om vi skal ta å høre om sl skal komme
+            
+  Normalization file ended early
+   inn
+  Uncertain:
+   vi skal ta å høre om sl skal komme inn
+            
+  Normalization file ended early
+   igjen
+  Uncertain:
+   skal ta å høre om sl skal komme inn igjen
+            
+  Normalization file ended early
+   jeg
+  Uncertain:
+   ta å høre om sl skal komme inn igjen jeg
+            
+  253 utterances, 2694 tokens
+drevsjoe_01um-02uk.txt
+  Normalization file ended early
+   *
+  415 utterances, 2656 tokens
+drevsjoe_01um-ms.txt
+  129 utterances, 1631 tokens
+drevsjoe_02uk-ms.txt
+  76 utterances, 1053 tokens
+drevsjoe_03gm-04gk.txt
+  Normalization file ended early
+   *
+  Normalization file ended early
+   de
+  Normalization file ended early
+   ær
+  Normalization file ended early
+   sikkert
+  Normalization file ended early
+   *
+  397 utterances, 4212 tokens
+drevsjoe_03gm-ms.txt
+  111 utterances, 2520 tokens
+drevsjoe_04gk-ms.txt
+  85 utterances, 1638 tokens
+eidfjord_01um-02uk.txt
+  535 utterances, 5572 tokens
+eidfjord_01um-sl.txt
+  Normalization file ended early
+   ja
+  Normalization file ended early
+   tillknyttning
+  Normalization file ended early
+   elle
+  Normalization file ended early
+   #
+  Normalization file ended early
+   elle
+  Normalization file ended early
+   no
+  Normalization file ended early
+   sånnt
+  Normalization file ended early
+   da
+  Normalization file ended early
+   ha
+  Normalization file ended early
+   e
+  Uncertain:
+   ja tillknyttning elle # elle no sånnt da ha e
+            
+  Normalization file ended early
+   mykje
+  Uncertain:
+   tillknyttning elle # elle no sånnt da ha e mykje
+            
+  Normalization file ended early
+   mæir
+  Uncertain:
+   elle # elle no sånnt da ha e mykje mæir
+            
+  Normalization file ended early
+   tru
+  Uncertain:
+   # elle no sånnt da ha e mykje mæir tru
+            
+  Normalization file ended early
+   på
+  Uncertain:
+   elle no sånnt da ha e mykje mæir tru på
+            
+  Normalization file ended early
+   #
+  Uncertain:
+   no sånnt da ha e mykje mæir tru på #
+            
+  Normalization file ended early
+   så
+  Uncertain:
+   sånnt da ha e mykje mæir tru på # så
+            
+  Normalization file ended early
+   eg
+  Uncertain:
+   da ha e mykje mæir tru på # så eg
+            
+  Normalization file ended early
+   ee
+  Uncertain:
+   ha e mykje mæir tru på # så eg ee
+            
+  Normalization file ended early
+   #
+  Uncertain:
+   e mykje mæir tru på # så eg ee #
+            
+  Normalization file ended early
+   å
+  Uncertain:
+   mykje mæir tru på # så eg ee # å
+            
+  Normalization file ended early
+   Æifjor
+  Uncertain:
+   mæir tru på # så eg ee # å Æifjor
+            
+  Normalization file ended early
+   ha
+  Uncertain:
+   tru på # så eg ee # å Æifjor ha
+            
+  Normalization file ended early
+   asså
+  Uncertain:
+   på # så eg ee # å Æifjor ha asså
+            
+  Normalization file ended early
+   de
+  Uncertain:
+   # så eg ee # å Æifjor ha asså de
+            
+  Normalization file ended early
+   e
+  Uncertain:
+   så eg ee # å Æifjor ha asså de e
+            
+  Normalization file ended early
+   kje
+  Uncertain:
+   eg ee # å Æifjor ha asså de e kje
+            
+  Normalization file ended early
+   nå
+  Uncertain:
+   ee # å Æifjor ha asså de e kje nå
+            
+  Normalization file ended early
+   mål
+  Uncertain:
+   # å Æifjor ha asså de e kje nå mål
+            
+  Normalization file ended early
+   att
+  Uncertain:
+   å Æifjor ha asså de e kje nå mål att
+            
+  Normalization file ended early
+   Æifjor
+  Uncertain:
+   Æifjor ha asså de e kje nå mål att Æifjor
+            
+  Normalization file ended early
+   ska
+  Uncertain:
+   ha asså de e kje nå mål att Æifjor ska
+            
+  Normalization file ended early
+   ha
+  Uncertain:
+   asså de e kje nå mål att Æifjor ska ha
+            
+  Normalization file ended early
+   femm
+  Uncertain:
+   de e kje nå mål att Æifjor ska ha femm
+            
+  Normalization file ended early
+   tus'n
+  Uncertain:
+   e kje nå mål att Æifjor ska ha femm tus'n
+            
+  Normalization file ended early
+   innbyjjara
+  Uncertain:
+   kje nå mål att Æifjor ska ha femm tus'n innbyjjara
+            
+  Normalization file ended early
+   da
+  Uncertain:
+   nå mål att Æifjor ska ha femm tus'n innbyjjara da
+            
+  Normalization file ended early
+   har
+  Uncertain:
+   mål att Æifjor ska ha femm tus'n innbyjjara da har
+            
+  Normalization file ended early
+   alldri
+  Uncertain:
+   att Æifjor ska ha femm tus'n innbyjjara da har alldri
+            
+  Normalization file ended early
+   værrt
+  Uncertain:
+   Æifjor ska ha femm tus'n innbyjjara da har alldri værrt
+            
+  Normalization file ended early
+   nå
+  Uncertain:
+   ska ha femm tus'n innbyjjara da har alldri værrt nå
+            
+  Normalization file ended early
+   nå
+  Normalization file ended early
+   har
+  Normalization file ended early
+   me
+  Normalization file ended early
+   klart
+  Normalization file ended early
+   å
+  Normalization file ended early
+   s-
+  Normalization file ended early
+   å
+  Normalization file ended early
+   ee
+  Normalization file ended early
+   å
+  Normalization file ended early
+   ståppa
+  Uncertain:
+   nå har me klart å s- å ee å ståppa
+            
+  Normalization file ended early
+   denn
+  Uncertain:
+   har me klart å s- å ee å ståppa denn
+            
+  Normalization file ended early
+   dærre
+  Uncertain:
+   me klart å s- å ee å ståppa denn dærre
+            
+  Normalization file ended early
+   #
+  Uncertain:
+   klart å s- å ee å ståppa denn dærre #
+            
+  Normalization file ended early
+   neganngen
+  Uncertain:
+   å s- å ee å ståppa denn dærre # neganngen
+            
+  Normalization file ended early
+   i
+  Uncertain:
+   s- å ee å ståppa denn dærre # neganngen i
+            
+  Normalization file ended early
+   fållketale
+  Uncertain:
+   å ee å ståppa denn dærre # neganngen i fållketale
+            
+  Normalization file ended early
+   då
+  Uncertain:
+   ee å ståppa denn dærre # neganngen i fållketale då
+            
+  Normalization file ended early
+   viss
+  Normalization file ended early
+   me
+  Normalization file ended early
+   klare
+  Normalization file ended early
+   å
+  Normalization file ended early
+   ha
+  Normalization file ended early
+   #
+  Normalization file ended early
+   ellvehonndre
+  Normalization file ended early
+   innbyggera
+  Normalization file ended early
+   så
+  Normalization file ended early
+   e
+  Uncertain:
+   viss me klare å ha # ellvehonndre innbyggera så e
+            
+  Normalization file ended early
+   de
+  Uncertain:
+   me klare å ha # ellvehonndre innbyggera så e de
+            
+  Normalization file ended early
+   kjemmpegræier
+  Uncertain:
+   klare å ha # ellvehonndre innbyggera så e de kjemmpegræier
+            
+  Normalization file ended early
+   #
+  Uncertain:
+   å ha # ellvehonndre innbyggera så e de kjemmpegræier #
+            
+  Normalization file ended early
+   viss
+  Uncertain:
+   ha # ellvehonndre innbyggera så e de kjemmpegræier # viss
+            
+  Normalization file ended early
+   me
+  Uncertain:
+   # ellvehonndre innbyggera så e de kjemmpegræier # viss me
+            
+  Normalization file ended early
+   klare
+  Uncertain:
+   ellvehonndre innbyggera så e de kjemmpegræier # viss me klare
+            
+  Normalization file ended early
+   å
+  Uncertain:
+   innbyggera så e de kjemmpegræier # viss me klare å
+            
+  Normalization file ended early
+   hålla
+  Uncertain:
+   så e de kjemmpegræier # viss me klare å hålla
+            
+  Normalization file ended early
+   da
+  Uncertain:
+   e de kjemmpegræier # viss me klare å hålla da
+            
+  Normalization file ended early
+   dær
+  Uncertain:
+   de kjemmpegræier # viss me klare å hålla da dær
+            
+  Normalization file ended early
+   att
+  Uncertain:
+   kjemmpegræier # viss me klare å hålla da dær att
+            
+  Normalization file ended early
+   ikkje
+  Uncertain:
+   # viss me klare å hålla da dær att ikkje
+            
+  Normalization file ended early
+   de
+  Uncertain:
+   viss me klare å hålla da dær att ikkje de
+            
+  Normalization file ended early
+   bærre
+  Uncertain:
+   me klare å hålla da dær att ikkje de bærre
+            
+  Normalization file ended early
+   går
+  Uncertain:
+   klare å hålla da dær att ikkje de bærre går
+            
+  Normalization file ended early
+   neøve
+  Uncertain:
+   å hålla da dær att ikkje de bærre går neøve
+            
+  Normalization file ended early
+   å
+  Uncertain:
+   hålla da dær att ikkje de bærre går neøve å
+            
+  Normalization file ended early
+   neøve
+  Uncertain:
+   da dær att ikkje de bærre går neøve å neøve
+            
+  Normalization file ended early
+   #
+  Uncertain:
+   dær att ikkje de bærre går neøve å neøve #
+            
+  Normalization file ended early
+   så
+  Uncertain:
+   att ikkje de bærre går neøve å neøve # så
+            
+  Normalization file ended early
+   da
+  Uncertain:
+   ikkje de bærre går neøve å neøve # så da
+            
+  Normalization file ended early
+   #
+  Uncertain:
+   de bærre går neøve å neøve # så da #
+            
+  106 utterances, 2225 tokens
+eidfjord_02uk-mi.txt
+  194 utterances, 2482 tokens
+eidfjord_03gm-04gk.txt
+  Normalization file ended early
+   hæi
+  681 utterances, 5920 tokens
+eidfjord_03gm-sl.txt
+  119 utterances, 1838 tokens
+eidfjord_04gk-mi.txt
+  Normalization file ended early
+   sånn
+  139 utterances, 2322 tokens
+enebakk_01um-02uk.txt
+  528 utterances, 5394 tokens
+enebakk_01um-ifg.txt
+  156 utterances, 2487 tokens
+enebakk_02uk-ifg.txt
+  164 utterances, 2352 tokens
+enebakk_03gm-04gk.txt
+  775 utterances, 7604 tokens
+enebakk_03gm-sr.txt
+  263 utterances, 3672 tokens
+enebakk_04gk-sr.txt
+  103 utterances, 1949 tokens
+evje_01um-02uk.txt
+  457 utterances, 3879 tokens
+evje_01um-sl.txt
+  175 utterances, 2269 tokens
+evje_02uk-eo.txt
+  108 utterances, 2032 tokens
+evje_03gm-04gk.txt
+  566 utterances, 5186 tokens
+evje_03gm-sl.txt
+  Normalization file ended early
+   ja
+  154 utterances, 2041 tokens
+evje_04gk-eo.txt
+  156 utterances, 2429 tokens
+flaa_01um-02uk.txt
+  293 utterances, 2527 tokens
+flaa_01um-sl.txt
+  163 utterances, 2220 tokens
+flaa_02uk-amg.txt
+  149 utterances, 2064 tokens
+flaa_03gm-04gk.txt
+  Uncertain:
+   nå ho kåmm ne atte då jikk o nepå na
+   når hun kom ned att da gikk hun nedpå denne
+  Normalization file ended early
+   ja
+  Normalization file ended early
+   førr
+  Normalization file ended early
+   de
+  Normalization file ended early
+   detta
+  Normalization file ended early
+   øylegg
+  Normalization file ended early
+   allt
+  Normalization file ended early
+   sammen
+  541 utterances, 5759 tokens
+flaa_03gm-sl.txt
+  107 utterances, 2253 tokens
+flaa_04gk-amg.txt
+  185 utterances, 1947 tokens
+fredrikstad_01um-02uk.txt
+  797 utterances, 6082 tokens
+fredrikstad_01um-eo.txt
+  150 utterances, 2864 tokens
+fredrikstad_02uk-eo.txt
+  241 utterances, 3001 tokens
+fredrikstad_03gm-04gk.txt
+  Normalization file ended early
+   de
+  Normalization file ended early
+   bLe
+  Normalization file ended early
+   messt
+  Normalization file ended early
+   mimmring
+  Normalization file ended early
+   da
+  427 utterances, 3908 tokens
+fredrikstad_03gm-eo.txt
+  Normalization file ended early
+   jo
+  Normalization file ended early
+   denn
+  Normalization file ended early
+   denn
+  Normalization file ended early
+   også
+  Normalization file ended early
+   #
+  Normalization file ended early
+   åmm
+  Normalization file ended early
+   denn
+  Normalization file ended early
+   kåmm
+  Normalization file ended early
+   i
+  Normalization file ended early
+   samme
+  Uncertain:
+   jo denn denn også # åmm denn kåmm i samme
+            
+  Normalization file ended early
+   kategori
+  Uncertain:
+   denn denn også # åmm denn kåmm i samme kategori
+            
+  Normalization file ended early
+   eller
+  Uncertain:
+   denn også # åmm denn kåmm i samme kategori eller
+            
+  Normalization file ended early
+   bare
+  Uncertain:
+   også # åmm denn kåmm i samme kategori eller bare
+            
+  Normalization file ended early
+   en
+  Uncertain:
+   # åmm denn kåmm i samme kategori eller bare en
+            
+  Normalization file ended early
+   klasse
+  Uncertain:
+   åmm denn kåmm i samme kategori eller bare en klasse
+            
+  Normalization file ended early
+   lavere
+  Uncertain:
+   denn kåmm i samme kategori eller bare en klasse lavere
+            
+  Normalization file ended early
+   de
+  Uncertain:
+   kåmm i samme kategori eller bare en klasse lavere de
+            
+  Normalization file ended early
+   hussker
+  Uncertain:
+   i samme kategori eller bare en klasse lavere de hussker
+            
+  Normalization file ended early
+   jæ
+  Uncertain:
+   samme kategori eller bare en klasse lavere de hussker jæ
+            
+  Normalization file ended early
+   ikke
+  Uncertain:
+   kategori eller bare en klasse lavere de hussker jæ ikke
+            
+  Normalization file ended early
+   di
+  Normalization file ended early
+   ær
+  Normalization file ended early
+   åmtrennt
+  Normalization file ended early
+   likeværdie
+  Normalization file ended early
+   tror
+  Normalization file ended early
+   jæ
+  Normalization file ended early
+   #
+  Normalization file ended early
+   å
+  Normalization file ended early
+   så
+  Normalization file ended early
+   har
+  Uncertain:
+   di ær åmtrennt likeværdie tror jæ # å så har
+            
+  Normalization file ended early
+   du
+  Uncertain:
+   ær åmtrennt likeværdie tror jæ # å så har du
+            
+  Normalization file ended early
+   jo
+  Uncertain:
+   åmtrennt likeværdie tror jæ # å så har du jo
+            
+  Normalization file ended early
+   #
+  Uncertain:
+   likeværdie tror jæ # å så har du jo #
+            
+  Normalization file ended early
+   ja
+  Uncertain:
+   tror jæ # å så har du jo # ja
+            
+  Normalization file ended early
+   de
+  Uncertain:
+   jæ # å så har du jo # ja de
+            
+  Normalization file ended early
+   æ
+  Uncertain:
+   # å så har du jo # ja de æ
+            
+  Normalization file ended early
+   jo
+  Uncertain:
+   å så har du jo # ja de æ jo
+            
+  Normalization file ended early
+   mannge
+  Uncertain:
+   så har du jo # ja de æ jo mannge
+            
+  Normalization file ended early
+   anndre
+  Uncertain:
+   har du jo # ja de æ jo mannge anndre
+            
+  Normalization file ended early
+   åmmråder
+  Uncertain:
+   du jo # ja de æ jo mannge anndre åmmråder
+            
+  Normalization file ended early
+   såmm
+  Uncertain:
+   jo # ja de æ jo mannge anndre åmmråder såmm
+            
+  Normalization file ended early
+   såmm
+  Uncertain:
+   # ja de æ jo mannge anndre åmmråder såmm såmm
+            
+  Normalization file ended early
+   vi
+  Uncertain:
+   ja de æ jo mannge anndre åmmråder såmm såmm vi
+            
+  Normalization file ended early
+   synns
+  Uncertain:
+   de æ jo mannge anndre åmmråder såmm såmm vi synns
+            
+  Normalization file ended early
+   æ
+  Uncertain:
+   æ jo mannge anndre åmmråder såmm såmm vi synns æ
+            
+  Normalization file ended early
+   hellt
+  Uncertain:
+   jo mannge anndre åmmråder såmm såmm vi synns æ hellt
+            
+  Normalization file ended early
+   åLæit
+  Uncertain:
+   mannge anndre åmmråder såmm såmm vi synns æ hellt åLæit
+            
+  Normalization file ended early
+   menn
+  Uncertain:
+   anndre åmmråder såmm såmm vi synns æ hellt åLæit menn
+            
+  Normalization file ended early
+   såmm
+  Uncertain:
+   åmmråder såmm såmm vi synns æ hellt åLæit menn såmm
+            
+  Normalization file ended early
+   kannsje
+  Normalization file ended early
+   har
+  Normalization file ended early
+   noen
+  Normalization file ended early
+   nyanngser
+  Normalization file ended early
+   #
+  Normalization file ended early
+   såmm
+  Normalization file ended early
+   ikke
+  Normalization file ended early
+   æ
+  Normalization file ended early
+   fullt
+  Normalization file ended early
+   så
+  Uncertain:
+   kannsje har noen nyanngser # såmm ikke æ fullt så
+            
+  Normalization file ended early
+   vellykka
+  Uncertain:
+   har noen nyanngser # såmm ikke æ fullt så vellykka
+            
+  Normalization file ended early
+   likksåm
+  Uncertain:
+   noen nyanngser # såmm ikke æ fullt så vellykka likksåm
+            
+  Normalization file ended early
+   #
+  Uncertain:
+   nyanngser # såmm ikke æ fullt så vellykka likksåm #
+            
+  Normalization file ended early
+   å
+  Uncertain:
+   # såmm ikke æ fullt så vellykka likksåm # å
+            
+  Normalization file ended early
+   vi
+  Uncertain:
+   såmm ikke æ fullt så vellykka likksåm # å vi
+            
+  Normalization file ended early
+   såmm
+  Uncertain:
+   ikke æ fullt så vellykka likksåm # å vi såmm
+            
+  Normalization file ended early
+   #
+  Uncertain:
+   æ fullt så vellykka likksåm # å vi såmm #
+            
+  Normalization file ended early
+   vi
+  Uncertain:
+   fullt så vellykka likksåm # å vi såmm # vi
+            
+  Normalization file ended early
+   såmm
+  Uncertain:
+   så vellykka likksåm # å vi såmm # vi såmm
+            
+  Normalization file ended early
+   bor
+  Uncertain:
+   vellykka likksåm # å vi såmm # vi såmm bor
+            
+  Normalization file ended early
+   vi
+  Uncertain:
+   likksåm # å vi såmm # vi såmm bor vi
+            
+  Normalization file ended early
+   såmm
+  Uncertain:
+   # å vi såmm # vi såmm bor vi såmm
+            
+  Normalization file ended early
+   æ
+  Uncertain:
+   å vi såmm # vi såmm bor vi såmm æ
+            
+  Normalization file ended early
+   våkkst
+  Uncertain:
+   vi såmm # vi såmm bor vi såmm æ våkkst
+            
+  Normalization file ended early
+   åpp
+  Uncertain:
+   såmm # vi såmm bor vi såmm æ våkkst åpp
+            
+  Normalization file ended early
+   i
+  Uncertain:
+   # vi såmm bor vi såmm æ våkkst åpp i
+            
+  Normalization file ended early
+   Freddriksta
+  Uncertain:
+   vi såmm bor vi såmm æ våkkst åpp i Freddriksta
+            
+  Normalization file ended early
+   å
+  Normalization file ended early
+   værrt
+  Normalization file ended early
+   fall
+  Normalization file ended early
+   vi
+  Normalization file ended early
+   såmm
+  Normalization file ended early
+   ha
+  Normalization file ended early
+   våkkst
+  Normalization file ended early
+   åpp
+  Normalization file ended early
+   #
+  Normalization file ended early
+   på
+  Uncertain:
+   å værrt fall vi såmm ha våkkst åpp # på
+            
+  Normalization file ended early
+   bysid'n
+  Uncertain:
+   værrt fall vi såmm ha våkkst åpp # på bysid'n
+            
+  Normalization file ended early
+   a
+  Uncertain:
+   fall vi såmm ha våkkst åpp # på bysid'n a
+            
+  Normalization file ended early
+   GLåmma
+  Uncertain:
+   vi såmm ha våkkst åpp # på bysid'n a GLåmma
+            
+  Normalization file ended early
+   #
+  Uncertain:
+   såmm ha våkkst åpp # på bysid'n a GLåmma #
+            
+  Normalization file ended early
+   vi
+  Uncertain:
+   ha våkkst åpp # på bysid'n a GLåmma # vi
+            
+  Normalization file ended early
+   vi
+  Uncertain:
+   våkkst åpp # på bysid'n a GLåmma # vi vi
+            
+  Normalization file ended early
+   kann
+  Uncertain:
+   åpp # på bysid'n a GLåmma # vi vi kann
+            
+  Normalization file ended early
+   jo
+  Uncertain:
+   # på bysid'n a GLåmma # vi vi kann jo
+            
+  Normalization file ended early
+   lissåm
+  Uncertain:
+   på bysid'n a GLåmma # vi vi kann jo lissåm
+            
+  Normalization file ended early
+   nødi
+  Uncertain:
+   bysid'n a GLåmma # vi vi kann jo lissåm nødi
+            
+  Normalization file ended early
+   tenngke
+  Uncertain:
+   a GLåmma # vi vi kann jo lissåm nødi tenngke
+            
+  Normalization file ended early
+   åss
+  Uncertain:
+   GLåmma # vi vi kann jo lissåm nødi tenngke åss
+            
+  Normalization file ended early
+   å
+  Uncertain:
+   # vi vi kann jo lissåm nødi tenngke åss å
+            
+  Normalization file ended early
+   fLytte
+  Uncertain:
+   vi vi kann jo lissåm nødi tenngke åss å fLytte
+            
+  Normalization file ended early
+   åv
+  Uncertain:
+   vi kann jo lissåm nødi tenngke åss å fLytte åv
+            
+  Normalization file ended early
+   på
+  Uncertain:
+   kann jo lissåm nødi tenngke åss å fLytte åv på
+            
+  Normalization file ended early
+   Øsstsid'n
+  Uncertain:
+   jo lissåm nødi tenngke åss å fLytte åv på Øsstsid'n
+            
+  Normalization file ended early
+   #
+  Uncertain:
+   lissåm nødi tenngke åss å fLytte åv på Øsstsid'n #
+            
+  Normalization file ended early
+   ikke
+  Uncertain:
+   nødi tenngke åss å fLytte åv på Øsstsid'n # ikke
+            
+  Normalization file ended early
+   fårr
+  Uncertain:
+   tenngke åss å fLytte åv på Øsstsid'n # ikke fårr
+            
+  Normalization file ended early
+   de
+  Uncertain:
+   åss å fLytte åv på Øsstsid'n # ikke fårr de
+            
+  Normalization file ended early
+   ær
+  Uncertain:
+   å fLytte åv på Øsstsid'n # ikke fårr de ær
+            
+  Normalization file ended early
+   no
+  Uncertain:
+   fLytte åv på Øsstsid'n # ikke fårr de ær no
+            
+  Normalization file ended early
+   …
+  Uncertain:
+   åv på Øsstsid'n # ikke fårr de ær no …
+            
+  140 utterances, 2352 tokens
+fredrikstad_04gk-eo.txt
+  209 utterances, 2691 tokens
+fusa_01um-02uk.txt
+  Normalization file ended early
+   *
+  Normalization file ended early
+   ja
+  Normalization file ended early
+   kannsje
+  352 utterances, 2860 tokens
+fusa_01um-mi.txt
+  116 utterances, 2068 tokens
+fusa_02uk-sl.txt
+  229 utterances, 2563 tokens
+fusa_03gm-04gk.txt
+  374 utterances, 4694 tokens
+fusa_03gm-mi.txt
+  141 utterances, 3117 tokens
+fusa_04gk-sl.txt
+  170 utterances, 2243 tokens
+gauldal_01um-02uk.txt
+  Normalization file ended early
+   jeg
+  Normalization file ended early
+   tror
+  Normalization file ended early
+   vi
+  Normalization file ended early
+   stopper
+  495 utterances, 3921 tokens
+gauldal_01um-lks.txt
+  111 utterances, 1811 tokens
+gauldal_02uk-lks.txt
+  131 utterances, 1850 tokens
+gauldal_03gm-04gk.txt
+  541 utterances, 6029 tokens
+gauldal_03gm-ma.txt
+  111 utterances, 1691 tokens
+gauldal_04gk-ma.txt
+  133 utterances, 1939 tokens
+gausdal_01um-05um.txt
+  472 utterances, 4407 tokens
+gausdal_01um-mi.txt
+  136 utterances, 2466 tokens
+gausdal_04gk-08gk.txt
+  536 utterances, 5716 tokens
+gausdal_04gk-sl.txt
+  217 utterances, 2717 tokens
+gausdal_05um-sl.txt
+  Normalization file ended early
+   *
+  Normalization file ended early
+   de
+  141 utterances, 2375 tokens
+gausdal_08gk-mi.txt
+  210 utterances, 4175 tokens
+gjesdal_01um-02uk.txt
+  Normalization file ended early
+   he
+  Normalization file ended early
+   me
+  Normalization file ended early
+   klart
+  Normalization file ended early
+   å
+  Normalization file ended early
+   snakka
+  Normalization file ended early
+   i
+  Normalization file ended early
+   tjue
+  Normalization file ended early
+   minutt
+  Normalization file ended early
+   nå
+  Normalization file ended early
+   ?
+  Uncertain:
+   he me klart å snakka i tjue minutt nå ?
+            
+  Normalization file ended early
+   #
+  Uncertain:
+   me klart å snakka i tjue minutt nå ? #
+            
+  451 utterances, 4711 tokens
+gjesdal_01um-jbj.txt
+  Normalization file ended early
+   næi
+  Normalization file ended early
+   hann
+  Normalization file ended early
+   æ
+  Normalization file ended early
+   jo
+  Normalization file ended early
+   #
+  Normalization file ended early
+   hann
+  Normalization file ended early
+   bler
+  Normalization file ended early
+   nitti
+  Normalization file ended early
+   år
+  Normalization file ended early
+   nå
+  Uncertain:
+   næi hann æ jo # hann bler nitti år nå
+            
+  Normalization file ended early
+   femmte
+  Uncertain:
+   hann æ jo # hann bler nitti år nå femmte
+            
+  Normalization file ended early
+   jannuar
+  Uncertain:
+   æ jo # hann bler nitti år nå femmte jannuar
+            
+  Normalization file ended early
+   #
+  Uncertain:
+   jo # hann bler nitti år nå femmte jannuar #
+            
+  Normalization file ended early
+   så
+  Uncertain:
+   # hann bler nitti år nå femmte jannuar # så
+            
+  Normalization file ended early
+   hann
+  Uncertain:
+   hann bler nitti år nå femmte jannuar # så hann
+            
+  Normalization file ended early
+   nimme
+  Uncertain:
+   bler nitti år nå femmte jannuar # så hann nimme
+            
+  Normalization file ended early
+   seg
+  Uncertain:
+   nitti år nå femmte jannuar # så hann nimme seg
+            
+  Normalization file ended early
+   #
+  Uncertain:
+   år nå femmte jannuar # så hann nimme seg #
+            
+  Normalization file ended early
+   hann
+  Uncertain:
+   nå femmte jannuar # så hann nimme seg # hann
+            
+  Normalization file ended early
+   bur
+  Uncertain:
+   femmte jannuar # så hann nimme seg # hann bur
+            
+  Normalization file ended early
+   #
+  Uncertain:
+   jannuar # så hann nimme seg # hann bur #
+            
+  Normalization file ended early
+   alaina
+  Uncertain:
+   # så hann nimme seg # hann bur # alaina
+            
+  Normalization file ended early
+   nå
+  Uncertain:
+   så hann nimme seg # hann bur # alaina nå
+            
+  Normalization file ended early
+   då
+  Uncertain:
+   hann nimme seg # hann bur # alaina nå då
+            
+  Normalization file ended early
+   #
+  Uncertain:
+   nimme seg # hann bur # alaina nå då #
+            
+  Normalization file ended early
+   å
+  Uncertain:
+   seg # hann bur # alaina nå då # å
+            
+  Normalization file ended early
+   ann
+  Uncertain:
+   # hann bur # alaina nå då # å ann
+            
+  Normalization file ended early
+   tjøre
+  Uncertain:
+   hann bur # alaina nå då # å ann tjøre
+            
+  Normalization file ended early
+   bil
+  Uncertain:
+   bur # alaina nå då # å ann tjøre bil
+            
+  Normalization file ended early
+   #
+  Uncertain:
+   # alaina nå då # å ann tjøre bil #
+            
+  Normalization file ended early
+   ennå
+  Uncertain:
+   alaina nå då # å ann tjøre bil # ennå
+            
+  Normalization file ended early
+   hann
+  Normalization file ended early
+   he
+  Normalization file ended early
+   æi
+  Normalization file ended early
+   #
+  Normalization file ended early
+   kall-
+  Normalization file ended early
+   ja
+  Normalization file ended early
+   hann
+  Normalization file ended early
+   he
+  Normalization file ended early
+   æi
+  Normalization file ended early
+   dama
+  Uncertain:
+   hann he æi # kall- ja hann he æi dama
+            
+  Normalization file ended early
+   på
+  Uncertain:
+   he æi # kall- ja hann he æi dama på
+            
+  331 utterances, 4081 tokens
+gjesdal_02uk-sr.txt
+  171 utterances, 2073 tokens
+gjesdal_03gm-04gk.txt
+  591 utterances, 6884 tokens
+gjesdal_03gm-sr.txt
+  136 utterances, 2137 tokens
+gjesdal_04gk-jbj.txt
+  Normalization file ended early
+   ja
+  Normalization file ended early
+   #
+  Normalization file ended early
+   mm
+  Normalization file ended early
+   #
+  Normalization file ended early
+   ja
+  Normalization file ended early
+   det
+  Normalization file ended early
+   var
+  Normalization file ended early
+   interessant
+  Normalization file ended early
+   #
+  Normalization file ended early
+   ja
+  Uncertain:
+   ja # mm # ja det var interessant # ja
+            
+  Normalization file ended early
+   #
+  Uncertain:
+   # mm # ja det var interessant # ja #
+            
+  Normalization file ended early
+   ja
+  Uncertain:
+   mm # ja det var interessant # ja # ja
+            
+  Normalization file ended early
+   men
+  Uncertain:
+   # ja det var interessant # ja # ja men
+            
+  Normalization file ended early
+   jeg
+  Uncertain:
+   ja det var interessant # ja # ja men jeg
+            
+  Normalization file ended early
+   tror
+  Uncertain:
+   det var interessant # ja # ja men jeg tror
+            
+  Normalization file ended early
+   vi
+  Uncertain:
+   var interessant # ja # ja men jeg tror vi
+            
+  Normalization file ended early
+   avslutter
+  Uncertain:
+   interessant # ja # ja men jeg tror vi avslutter
+            
+  Normalization file ended early
+   denne
+  Uncertain:
+   # ja # ja men jeg tror vi avslutter denne
+            
+  Normalization file ended early
+   delen
+  Uncertain:
+   ja # ja men jeg tror vi avslutter denne delen
+            
+  Normalization file ended early
+   nå
+  Uncertain:
+   # ja men jeg tror vi avslutter denne delen nå
+            
+  Normalization file ended early
+   jeg
+  Uncertain:
+   ja men jeg tror vi avslutter denne delen nå jeg
+            
+  197 utterances, 2782 tokens
+hammerfest_02uk-06uk.txt
+  157 utterances, 1782 tokens
+hammerfest_02uk-jbj.txt
+  285 utterances, 3632 tokens
+hammerfest_03gm-04gk.txt
+  Normalization file ended early
+   de
+  Normalization file ended early
+   e
+  Normalization file ended early
+   mæsst
+  Normalization file ended early
+   våres
+  Normalization file ended early
+   eget
+  Normalization file ended early
+   viss
+  Normalization file ended early
+   de
+  Normalization file ended early
+   e
+  Normalization file ended early
+   nå
+  789 utterances, 7724 tokens
+hammerfest_03gm-jbj.txt
+  409 utterances, 4177 tokens
+hammerfest_04gk-jbj.txt
+  288 utterances, 4238 tokens
+hattfjelldal_01um-02uk.txt
+  792 utterances, 7708 tokens
+hattfjelldal_01um-ov.txt
+  188 utterances, 2385 tokens
+hattfjelldal_02uk-ov.txt
+  182 utterances, 2324 tokens
+hattfjelldal_03gm-04gk.txt
+  Uncertain:
+   dæ sku kje kåsst åss nån tenng så sku jær
+   det skulle ikke koste oss noen ting som skulle gjøre
+  Normalization file ended early
+   ja
+  Normalization file ended early
+   #
+  Normalization file ended early
+   ja
+  1041 utterances, 10875 tokens
+hattfjelldal_03gm-ov.txt
+  188 utterances, 2673 tokens
+hattfjelldal_04gk-ov.txt
+  171 utterances, 2914 tokens
+heroeyMR_01um-02uk.txt
+  626 utterances, 6256 tokens
+heroeyMR_01um-ta.txt
+  126 utterances, 1973 tokens
+heroeyMR_02uk-ta.txt
+  101 utterances, 1338 tokens
+heroeyMR_03gm-04gk.txt
+  519 utterances, 5477 tokens
+heroeyMR_03gm-ta.txt
+  154 utterances, 2307 tokens
+heroeyMR_04gk-ta.txt
+  167 utterances, 2007 tokens
+heroeyN_01um-02uk.txt
+  664 utterances, 5995 tokens
+heroeyN_01um-kh.txt
+  125 utterances, 1455 tokens
+heroeyN_02uk-kh.txt
+  162 utterances, 1904 tokens
+heroeyN_03gm-04gk.txt
+  697 utterances, 7514 tokens
+heroeyN_03gm-kh.txt
+  169 utterances, 2994 tokens
+heroeyN_04gk-kh.txt
+  170 utterances, 2249 tokens
+hjartdal_01um-02uk.txt
+  581 utterances, 4487 tokens
+hjartdal_01um-as.txt
+  Normalization file ended early
+   ja
+  Normalization file ended early
+   #
+  Normalization file ended early
+   det
+  Normalization file ended early
+   stemmer
+  Normalization file ended early
+   nok
+  Normalization file ended early
+   #
+  Normalization file ended early
+   jeg
+  Normalization file ended early
+   trur
+  Normalization file ended early
+   vi
+  Normalization file ended early
+   sier
+  Uncertain:
+   ja # det stemmer nok # jeg trur vi sier
+            
+  Normalization file ended early
+   at
+  Uncertain:
+   # det stemmer nok # jeg trur vi sier at
+            
+  Normalization file ended early
+   det
+  Uncertain:
+   det stemmer nok # jeg trur vi sier at det
+            
+  Normalization file ended early
+   er
+  Uncertain:
+   stemmer nok # jeg trur vi sier at det er
+            
+  Normalization file ended early
+   greit
+  Uncertain:
+   nok # jeg trur vi sier at det er greit
+            
+  Normalization file ended early
+   jeg
+  Uncertain:
+   # jeg trur vi sier at det er greit jeg
+            
+  Normalization file ended early
+   #
+  Uncertain:
+   jeg trur vi sier at det er greit jeg #
+            
+  Normalization file ended early
+   viss
+  Uncertain:
+   trur vi sier at det er greit jeg # viss
+            
+  Normalization file ended early
+   du
+  Uncertain:
+   vi sier at det er greit jeg # viss du
+            
+  Normalization file ended early
+   gidder
+  Uncertain:
+   sier at det er greit jeg # viss du gidder
+            
+  Normalization file ended early
+   å
+  Uncertain:
+   at det er greit jeg # viss du gidder å
+            
+  Normalization file ended early
+   skru
+  Uncertain:
+   det er greit jeg # viss du gidder å skru
+            
+  Normalization file ended early
+   av
+  Uncertain:
+   er greit jeg # viss du gidder å skru av
+            
+  76 utterances, 1323 tokens
+hjartdal_02uk-as.txt
+  113 utterances, 1459 tokens
+hjartdal_03gm-04gk.txt
+  488 utterances, 4308 tokens
+hjartdal_03gm-sl.txt
+  156 utterances, 2400 tokens
+hjartdal_04gk-sl.txt
+  192 utterances, 2356 tokens
+hjelmeland_01um-02uk.txt
+  498 utterances, 4340 tokens
+hjelmeland_01um-sr.txt
+  116 utterances, 1857 tokens
+hjelmeland_02uk-ks.txt
+  124 utterances, 2252 tokens
+hjelmeland_03gm-04gk.txt
+  611 utterances, 6723 tokens
+hjelmeland_03gm-sr.txt
+  Normalization file ended early
+   ja
+  Normalization file ended early
+   #
+  Normalization file ended early
+   ja
+  140 utterances, 2071 tokens
+hjelmeland_04gk-ks.txt
+  128 utterances, 2534 tokens
+hof_01um-02uk.txt
+  Normalization file ended early
+   *
+  Normalization file ended early
+   hallo
+  749 utterances, 5024 tokens
+hof_01um-sb.txt
+  248 utterances, 2941 tokens
+hof_02uk-sb.txt
+  113 utterances, 1972 tokens
+hof_03gm-04gk.txt
+  951 utterances, 7169 tokens
+hof_04gk-sb.txt
+  335 utterances, 3118 tokens
+hyllestad_01um-ov.txt
+  158 utterances, 1908 tokens
+hyllestad_02uk-ov.txt
+  151 utterances, 1646 tokens
+hyllestad_03gm-04gk.txt
+  957 utterances, 6256 tokens
+hyllestad_03gm-ov.txt
+  264 utterances, 2644 tokens
+hyllestad_04gk-ov.txt
+  196 utterances, 2394 tokens
+inderoey_01um-02uk.txt
+  656 utterances, 5516 tokens
+inderoey_01um-ta.txt
+  148 utterances, 2202 tokens
+inderoey_02uk-ta.txt
+  178 utterances, 2235 tokens
+inderoey_03gm-04gk.txt
+  693 utterances, 5097 tokens
+inderoey_03gm-cbo.txt
+  124 utterances, 1724 tokens
+inderoey_04gk-cbo.txt
+  159 utterances, 1950 tokens
+jevnaker_01um-02uk.txt
+  398 utterances, 4613 tokens
+jevnaker_01um-lh.txt
+  169 utterances, 2471 tokens
+jevnaker_02uk-lh.txt
+  192 utterances, 2783 tokens
+jevnaker_03gm-04gk.txt
+  590 utterances, 3933 tokens
+jevnaker_03gm-sr.txt
+  224 utterances, 2547 tokens
+jevnaker_04gk-sl.txt
+  189 utterances, 1933 tokens
+joelster_01um-04gk.txt
+  439 utterances, 3931 tokens
+joelster_01um-ov.txt
+  Normalization file ended early
+   *
+  Normalization file ended early
+   ja
+  Normalization file ended early
+   *
+  Normalization file ended early
+   ja
+  134 utterances, 2054 tokens
+joelster_02uk-03gm.txt
+  675 utterances, 5645 tokens
+joelster_02uk-ov.txt
+  137 utterances, 1844 tokens
+joelster_03gm-ov.txt
+  141 utterances, 2721 tokens
+joelster_04gk-ov.txt
+  126 utterances, 1539 tokens
+kaafjord_01um-02uk.txt
+  704 utterances, 6252 tokens
+kaafjord_01um-amj.txt
+  191 utterances, 2894 tokens
+kaafjord_02uk-amj.txt
+  345 utterances, 4309 tokens
+kaafjord_03gm-04gk.txt
+  638 utterances, 6656 tokens
+kaafjord_03gm-amj.txt
+  231 utterances, 2860 tokens
+kaafjord_04gk-amj.txt
+  164 utterances, 3075 tokens
+kaafjord_07gm-amj.txt
+  Normalization file ended early
+   ja
+  Normalization file ended early
+   du
+  Normalization file ended early
+   ska
+  Normalization file ended early
+   bare
+  Normalization file ended early
+   sjlutte
+  Normalization file ended early
+   av
+  Normalization file ended early
+   d
+  Normalization file ended early
+   e
+  Normalization file ended early
+   like
+  Normalization file ended early
+   græit
+  Uncertain:
+   ja du ska bare sjlutte av d e like græit
+            
+  Normalization file ended early
+   #
+  Uncertain:
+   du ska bare sjlutte av d e like græit #
+            
+  426 utterances, 5290 tokens
+kalvaag_01um-02uk.txt
+  430 utterances, 3434 tokens
+kalvaag_01um-ov.txt
+  104 utterances, 1367 tokens
+kalvaag_02uk-ov.txt
+  119 utterances, 1232 tokens
+kalvaag_03gm-04gk.txt
+  Normalization file ended early
+   ja
+  Normalization file ended early
+   #
+  Normalization file ended early
+   så
+  Normalization file ended early
+   sæie
+  Normalization file ended early
+   mi
+  Normalization file ended early
+   E1
+  Normalization file ended early
+   rå
+  Normalization file ended early
+   #
+  Normalization file ended early
+   sa
+  Normalization file ended early
+   hann
+  Uncertain:
+   ja # så sæie mi E1 rå # sa hann
+            
+  562 utterances, 5734 tokens
+kalvaag_03gm-ov.txt
+  239 utterances, 3958 tokens
+kalvaag_04gk-ov.txt
+  215 utterances, 3327 tokens
+karlsoey_01um-02uk.txt
+  Normalization file ended early
+   de
+  Normalization file ended early
+   va
+  Normalization file ended early
+   jo
+  Normalization file ended early
+   no
+  Normalization file ended early
+   de
+  Normalization file ended early
+   bjynte
+  Normalization file ended early
+   å
+  Normalization file ended early
+   bli
+  Normalization file ended early
+   spennanes
+  551 utterances, 6628 tokens
+karlsoey_01um-kb.txt
+  136 utterances, 1524 tokens
+karlsoey_02uk-kb.txt
+  158 utterances, 2200 tokens
+karlsoey_03gm-kb.txt
+  231 utterances, 2832 tokens
+karmoey_01um-02uk.txt
+  731 utterances, 5500 tokens
+karmoey_01um-sr.txt
+  240 utterances, 2706 tokens
+karmoey_02uk-ks.txt
+  Normalization file ended early
+   em
+  Normalization file ended early
+   em
+  Normalization file ended early
+   #
+  Normalization file ended early
+   #
+  Normalization file ended early
+   vet
+  Normalization file ended early
+   du
+  Normalization file ended early
+   hva
+  Normalization file ended early
+   jeg
+  Normalization file ended early
+   vil
+  Normalization file ended early
+   egentlig
+  Uncertain:
+   em em # # vet du hva jeg vil egentlig
+            
+  Normalization file ended early
+   tro
+  Uncertain:
+   em # # vet du hva jeg vil egentlig tro
+            
+  Normalization file ended early
+   at
+  Uncertain:
+   # # vet du hva jeg vil egentlig tro at
+            
+  Normalization file ended early
+   vi
+  Uncertain:
+   # vet du hva jeg vil egentlig tro at vi
+            
+  Normalization file ended early
+   har
+  Uncertain:
+   vet du hva jeg vil egentlig tro at vi har
+            
+  Normalization file ended early
+   holdt
+  Uncertain:
+   du hva jeg vil egentlig tro at vi har holdt
+            
+  Normalization file ended early
+   på
+  Uncertain:
+   hva jeg vil egentlig tro at vi har holdt på
+            
+  Normalization file ended early
+   i
+  Uncertain:
+   jeg vil egentlig tro at vi har holdt på i
+            
+  Normalization file ended early
+   ti
+  Uncertain:
+   vil egentlig tro at vi har holdt på i ti
+            
+  Normalization file ended early
+   minutter
+  Uncertain:
+   egentlig tro at vi har holdt på i ti minutter
+            
+  Normalization file ended early
+   jeg
+  Uncertain:
+   tro at vi har holdt på i ti minutter jeg
+            
+  168 utterances, 2198 tokens
+karmoey_03gm-04gk.txt
+  640 utterances, 6319 tokens
+karmoey_03gm-sr.txt
+  219 utterances, 3275 tokens
+karmoey_04gk-ks.txt
+  150 utterances, 2130 tokens
+kautokeino_01um-03gm.txt
+  Normalization file ended early
+   de
+  Normalization file ended early
+   må
+  Normalization file ended early
+   jo
+  Normalization file ended early
+   hålle
+  408 utterances, 4375 tokens
+kautokeino_01um-ov.txt
+  150 utterances, 1937 tokens
+kautokeino_02uk-04gk.txt
+  885 utterances, 6731 tokens
+kautokeino_02uk-ov.txt
+  246 utterances, 2630 tokens
+kautokeino_03gm-ov.txt
+  156 utterances, 2155 tokens
+kautokeino_04gk-ov.txt
+  250 utterances, 2934 tokens
+kirkenaer_01um-05um.txt
+  Normalization file ended early
+   *
+  Normalization file ended early
+   ja
+  697 utterances, 5874 tokens
+kirkenaer_01um-mj.txt
+  195 utterances, 2300 tokens
+kirkenaer_04gk-08gk.txt
+  Normalization file ended early
+   å
+  553 utterances, 4974 tokens
+kirkenaer_04gk-mj.txt
+  173 utterances, 2512 tokens
+kirkenaer_05um-mj.txt
+  253 utterances, 2560 tokens
+kirkenaer_08gk-mj.txt
+  241 utterances, 3345 tokens
+kirkenes_01um-02uk.txt
+  1119 utterances, 10371 tokens
+kirkenes_01um-kb.txt
+  220 utterances, 2769 tokens
+kirkenes_02uk-kb.txt
+  215 utterances, 3073 tokens
+kirkenes_03gm-04gk.txt
+  820 utterances, 7269 tokens
+kirkenes_03gm-kb.txt
+  Normalization file ended early
+   ha
+  Normalization file ended early
+   jo
+  Normalization file ended early
+   kåmmet
+  Normalization file ended early
+   gradvis
+  Normalization file ended early
+   åve
+  Normalization file ended early
+   manng
+  Normalization file ended early
+   år
+  Normalization file ended early
+   vi
+  Normalization file ended early
+   #
+  Normalization file ended early
+   va
+  Uncertain:
+   ha jo kåmmet gradvis åve manng år vi # va
+            
+  Normalization file ended early
+   jo
+  Uncertain:
+   jo kåmmet gradvis åve manng år vi # va jo
+            
+  Normalization file ended early
+   tili
+  Uncertain:
+   kåmmet gradvis åve manng år vi # va jo tili
+            
+  Normalization file ended early
+   ute
+  Uncertain:
+   gradvis åve manng år vi # va jo tili ute
+            
+  Normalization file ended early
+   me
+  Uncertain:
+   åve manng år vi # va jo tili ute me
+            
+  Normalization file ended early
+   ett
+  Uncertain:
+   manng år vi # va jo tili ute me ett
+            
+  Normalization file ended early
+   fårrhåll
+  Uncertain:
+   år vi # va jo tili ute me ett fårrhåll
+            
+  Normalization file ended early
+   till
+  Uncertain:
+   vi # va jo tili ute me ett fårrhåll till
+            
+  Normalization file ended early
+   #
+  Uncertain:
+   # va jo tili ute me ett fårrhåll till #
+            
+  Normalization file ended early
+   Petsjennga
+  Uncertain:
+   va jo tili ute me ett fårrhåll till # Petsjennga
+            
+  Normalization file ended early
+   elle
+  Uncertain:
+   jo tili ute me ett fårrhåll till # Petsjennga elle
+            
+  Normalization file ended early
+   Nikkelbyen
+  Uncertain:
+   tili ute me ett fårrhåll till # Petsjennga elle Nikkelbyen
+            
+  Normalization file ended early
+   da
+  Uncertain:
+   ute me ett fårrhåll till # Petsjennga elle Nikkelbyen da
+            
+  Normalization file ended early
+   på
+  Uncertain:
+   me ett fårrhåll till # Petsjennga elle Nikkelbyen da på
+            
+  Normalization file ended early
+   anndre
+  Uncertain:
+   ett fårrhåll till # Petsjennga elle Nikkelbyen da på anndre
+            
+  Normalization file ended early
+   sia
+  Uncertain:
+   fårrhåll till # Petsjennga elle Nikkelbyen da på anndre sia
+            
+  Normalization file ended early
+   hær
+  Uncertain:
+   till # Petsjennga elle Nikkelbyen da på anndre sia hær
+            
+  Normalization file ended early
+   menn
+  Normalization file ended early
+   ee
+  Normalization file ended early
+   fra
+  Normalization file ended early
+   #
+  Normalization file ended early
+   åtteååtti
+  181 utterances, 2538 tokens
+kirkenes_04gk-kb.txt
+  259 utterances, 2389 tokens
+kirkesdalen_01um-02uk.txt
+  580 utterances, 4316 tokens
+kirkesdalen_01um-hna.txt
+  229 utterances, 3426 tokens
+kirkesdalen_02uk-hna.txt
+  223 utterances, 3953 tokens
+kirkesdalen_03gm-04gk.txt
+  414 utterances, 6231 tokens
+kirkesdalen_03gm-hna.txt
+  Normalization file ended early
+   ja
+  Normalization file ended early
+   nei
+  Normalization file ended early
+   det
+  Normalization file ended early
+   ee
+  Normalization file ended early
+   det
+  Normalization file ended early
+   der
+  Normalization file ended early
+   endrer
+  Normalization file ended early
+   seg
+  Normalization file ended early
+   voldsomt
+  Normalization file ended early
+   i
+  Uncertain:
+   ja nei det ee det der endrer seg voldsomt i
+            
+  Normalization file ended early
+   forhold
+  Uncertain:
+   nei det ee det der endrer seg voldsomt i forhold
+            
+  Normalization file ended early
+   til
+  Uncertain:
+   det ee det der endrer seg voldsomt i forhold til
+            
+  Normalization file ended early
+   …
+  Uncertain:
+   ee det der endrer seg voldsomt i forhold til …
+            
+  140 utterances, 3014 tokens
+kirkesdalen_04gk-hna.txt
+  172 utterances, 3602 tokens
+kjoellefjord_01um-02uk.txt
+  771 utterances, 5321 tokens
+kjoellefjord_01um-jbj.txt
+  Normalization file ended early
+   ja
+  Normalization file ended early
+   det
+  Normalization file ended early
+   er
+  Normalization file ended early
+   bra
+  Normalization file ended early
+   #
+  Normalization file ended early
+   men
+  Normalization file ended early
+   jeg
+  Normalization file ended early
+   tror
+  Normalization file ended early
+   vi
+  Normalization file ended early
+   avslutter
+  Uncertain:
+   ja det er bra # men jeg tror vi avslutter
+            
+  Normalization file ended early
+   dette
+  Uncertain:
+   det er bra # men jeg tror vi avslutter dette
+            
+  Normalization file ended early
+   her
+  Uncertain:
+   er bra # men jeg tror vi avslutter dette her
+            
+  Normalization file ended early
+   nå
+  Uncertain:
+   bra # men jeg tror vi avslutter dette her nå
+            
+  Normalization file ended early
+   jeg
+  Uncertain:
+   # men jeg tror vi avslutter dette her nå jeg
+            
+  213 utterances, 2184 tokens
+kjoellefjord_02uk-jbj.txt
+  235 utterances, 2215 tokens
+kjoellefjord_03gm-04gk.txt
+  Normalization file ended early
+   ja
+  Normalization file ended early
+   *
+  Normalization file ended early
+   heilt
+  Normalization file ended early
+   greit
+  1091 utterances, 9170 tokens
+kjoellefjord_03gm-jbj.txt
+  340 utterances, 3712 tokens
+kjoellefjord_04gk-jbj.txt
+  317 utterances, 4219 tokens
+kristiansand_01um-02uk.txt
+  Normalization file ended early
+   *
+  Normalization file ended early
+   næi
+  Normalization file ended early
+   *
+  Normalization file ended early
+   næi
+  Normalization file ended early
+   *
+  Normalization file ended early
+   ja
+  625 utterances, 6426 tokens
+kristiansand_01um-mi.txt
+  105 utterances, 1961 tokens
+kristiansand_02uk-sl.txt
+  108 utterances, 2042 tokens
+kristiansand_03gm-04gk.txt
+  481 utterances, 4137 tokens
+kristiansand_03gm-sl.txt
+  150 utterances, 2443 tokens
+kristiansand_04gk-mi.txt
+  163 utterances, 2534 tokens
+kvaefjord_01um-02uk.txt
+  706 utterances, 5980 tokens
+kvaefjord_01um-ov.txt
+  111 utterances, 1800 tokens
+kvaefjord_02uk-ov.txt
+  112 utterances, 1219 tokens
+kvaefjord_03gm-04gk.txt
+  856 utterances, 7225 tokens
+kvaefjord_03gm-ov.txt
+  Normalization file ended early
+   ja
+  116 utterances, 1963 tokens
+kvaefjord_04gk-ov.txt
+  Normalization file ended early
+   ja
+  Normalization file ended early
+   #
+  Normalization file ended early
+   vær
+  Normalization file ended early
+   se
+  Normalization file ended early
+   go
+  151 utterances, 2141 tokens
+kvaenangen_01um-02uk.txt
+  1017 utterances, 8865 tokens
+kvaenangen_01um-ov.txt
+  194 utterances, 2071 tokens
+kvaenangen_02uk-ov.txt
+  Normalization file ended early
+   ja
+  Normalization file ended early
+   #
+  Normalization file ended early
+   ok
+  Normalization file ended early
+   #
+  Normalization file ended early
+   men
+  Normalization file ended early
+   da
+  Normalization file ended early
+   #
+  Normalization file ended early
+   da
+  Normalization file ended early
+   har
+  Normalization file ended early
+   vi
+  Uncertain:
+   ja # ok # men da # da har vi
+            
+  Normalization file ended early
+   #
+  Uncertain:
+   # ok # men da # da har vi #
+            
+  Normalization file ended early
+   vært
+  Uncertain:
+   ok # men da # da har vi # vært
+            
+  Normalization file ended early
+   gjennom
+  Uncertain:
+   # men da # da har vi # vært gjennom
+            
+  182 utterances, 2108 tokens
+kvaenangen_03gm-04gk.txt
+  Normalization file ended early
+   ja
+  987 utterances, 10279 tokens
+kvaenangen_03gm-ov.txt
+  241 utterances, 3088 tokens
+kvaenangen_04gk-ov.txt
+  187 utterances, 2841 tokens
+kvam_03gm-sl.txt
+  240 utterances, 2422 tokens
+kvam_04gk-mi.txt
+  Normalization file ended early
+   det
+  Normalization file ended early
+   var
+  Normalization file ended early
+   kjempebra
+  Normalization file ended early
+   #
+  Normalization file ended early
+   veldig
+  Normalization file ended early
+   #
+  Normalization file ended early
+   flott
+  286 utterances, 4213 tokens
+kvinnherad_01um-02uk.txt
+  512 utterances, 6340 tokens
+kvinnherad_01um-sl.txt
+  140 utterances, 2435 tokens
+kvinnherad_02uk-eo.txt
+  97 utterances, 1866 tokens
+kvinnherad_03gm-04gk.txt
+  538 utterances, 5271 tokens
+kvinnherad_03gm-sl.txt
+  224 utterances, 3053 tokens
+kvinnherad_04gk-eo.txt
+  168 utterances, 1942 tokens
+lakselv_01um-02uk.txt
+  773 utterances, 8435 tokens
+lakselv_01um-ov.txt
+  154 utterances, 2311 tokens
+lakselv_02uk-ov.txt
+  138 utterances, 2007 tokens
+lakselv_03gm-04gk.txt
+  1001 utterances, 9623 tokens
+lakselv_03gm-ov.txt
+  246 utterances, 3451 tokens
+lakselv_04gk-ov.txt
+  234 utterances, 2803 tokens
+landvik_01um-02uk.txt
+  505 utterances, 5022 tokens
+landvik_01um-lh.txt
+  222 utterances, 2681 tokens
+landvik_02uk-sl.txt
+  176 utterances, 2411 tokens
+landvik_03gm-04gk.txt
+  499 utterances, 3848 tokens
+landvik_03gm-sl.txt
+  185 utterances, 2783 tokens
+landvik_04gk-lh.txt
+  113 utterances, 1522 tokens
+langesund_01um-02uk.txt
+  355 utterances, 3240 tokens
+langesund_01um-sl.txt
+  130 utterances, 1460 tokens
+langesund_02uk-sl.txt
+  167 utterances, 1263 tokens
+langesund_03gm-04gk.txt
+  479 utterances, 4343 tokens
+langesund_03gm-amg.txt
+  87 utterances, 1576 tokens
+langesund_04gk-amg.txt
+  113 utterances, 2010 tokens
+lardal_01um-02uk.txt
+  621 utterances, 4808 tokens
+lardal_01um-sl.txt
+  212 utterances, 2997 tokens
+lardal_02uk-sr.txt
+  214 utterances, 2339 tokens
+lardal_03gm-04gk.txt
+  610 utterances, 6420 tokens
+lardal_03gm-sl.txt
+  191 utterances, 2628 tokens
+lardal_04gk-sr.txt
+  262 utterances, 3531 tokens
+lavangen_01um-02uk.txt
+  624 utterances, 7066 tokens
+lavangen_01um-kb.txt
+  193 utterances, 3394 tokens
+lavangen_02uk-kb.txt
+  175 utterances, 3129 tokens
+lavangen_03gm-04gk.txt
+  731 utterances, 9058 tokens
+lavangen_03gm-ov.txt
+  109 utterances, 2088 tokens
+lavangen_04gk-ov.txt
+  171 utterances, 3137 tokens
+lierne_01um-02uk.txt
+  697 utterances, 4671 tokens
+lierne_01um-ta.txt
+  99 utterances, 981 tokens
+lierne_02uk-ta.txt
+  184 utterances, 2043 tokens
+lierne_03gm-04gk.txt
+  560 utterances, 6890 tokens
+lierne_03gm-ta.txt
+  128 utterances, 2416 tokens
+lierne_04gk-ta.txt
+  158 utterances, 2369 tokens
+lindaas_01um-sl.txt
+  172 utterances, 1936 tokens
+lindaas_02uk-mi.txt
+  Normalization file ended early
+   fint
+  83 utterances, 1158 tokens
+lindaas_03gm-04gk.txt
+  576 utterances, 6398 tokens
+lindaas_03gm-sl.txt
+  Normalization file ended early
+   ja
+  232 utterances, 2848 tokens
+lindaas_04gk-mi.txt
+  Normalization file ended early
+   mhm
+  120 utterances, 1874 tokens
+lommedalen_01um-02uk.txt
+  463 utterances, 4951 tokens
+lommedalen_01um-ifg.txt
+  158 utterances, 2916 tokens
+lommedalen_02uk-ifg.txt
+  Uncertain:
+   # fårr d ær ee mess- d ær noon såmm
+   ## for det er e mes- det er noen som
+  210 utterances, 2445 tokens
+lommedalen_03gm-04gk.txt
+  Normalization file ended early
+   brønn
+  Normalization file ended early
+   de
+  373 utterances, 3994 tokens
+lommedalen_03gm-amg.txt
+  161 utterances, 3282 tokens
+lommedalen_04gk-amg.txt
+  147 utterances, 2805 tokens
+lom_01um-02uk.txt
+  245 utterances, 2135 tokens
+lom_01um-jk.txt
+  96 utterances, 1964 tokens
+lom_02uk-jk.txt
+  110 utterances, 1586 tokens
+lom_03gm-04gk.txt
+  Uncertain:
+   kje vorre uppå dær mæir æinn æinn æll två gånngå
+   ikke vært oppå der mer enn en eller to ganger
+  Uncertain:
+   fårr nå n ska te mæ dømm # såmm kjy
+   for når en skal til med dem ## som kyr
+  478 utterances, 4456 tokens
+lom_03gm-mi.txt
+  120 utterances, 2467 tokens
+lom_04gk-sl.txt
+  196 utterances, 3054 tokens
+luster_01um-06uk.txt
+  627 utterances, 6142 tokens
+luster_01um-ov.txt
+  Normalization file ended early
+   mm
+  Normalization file ended early
+   #
+  Normalization file ended early
+   ja
+  Normalization file ended early
+   #
+  Normalization file ended early
+   nei
+  Normalization file ended early
+   men
+  Normalization file ended early
+   da
+  Normalization file ended early
+   var
+  Normalization file ended early
+   vi
+  Normalization file ended early
+   gjennom
+  Uncertain:
+   mm # ja # nei men da var vi gjennom
+            
+  Normalization file ended early
+   listen
+  Uncertain:
+   # ja # nei men da var vi gjennom listen
+            
+  Normalization file ended early
+   her
+  Uncertain:
+   ja # nei men da var vi gjennom listen her
+            
+  Normalization file ended early
+   så
+  Uncertain:
+   # nei men da var vi gjennom listen her så
+            
+  Normalization file ended early
+   #
+  Uncertain:
+   nei men da var vi gjennom listen her så #
+            
+  Normalization file ended early
+   så
+  Uncertain:
+   men da var vi gjennom listen her så # så
+            
+  Normalization file ended early
+   da
+  Uncertain:
+   da var vi gjennom listen her så # så da
+            
+  Normalization file ended early
+   ee
+  Uncertain:
+   var vi gjennom listen her så # så da ee
+            
+  Normalization file ended early
+   #
+  Uncertain:
+   vi gjennom listen her så # så da ee #
+            
+  Normalization file ended early
+   kan
+  Uncertain:
+   gjennom listen her så # så da ee # kan
+            
+  Normalization file ended early
+   du
+  Uncertain:
+   listen her så # så da ee # kan du
+            
+  Normalization file ended early
+   skru
+  Uncertain:
+   her så # så da ee # kan du skru
+            
+  Normalization file ended early
+   av
+  Uncertain:
+   så # så da ee # kan du skru av
+            
+  114 utterances, 1818 tokens
+luster_02uk-06uk.txt
+  436 utterances, 3079 tokens
+luster_02uk-ov.txt
+  Normalization file ended early
+   ja
+  Normalization file ended early
+   fint
+  Normalization file ended early
+   det
+  Normalization file ended early
+   #
+  Normalization file ended early
+   mm
+  115 utterances, 1517 tokens
+luster_03gm-04gk.txt
+  499 utterances, 4396 tokens
+luster_03gm-ov.txt
+  Normalization file ended early
+   å
+  Normalization file ended early
+   ja
+  Normalization file ended early
+   #
+  Normalization file ended early
+   da
+  Normalization file ended early
+   va
+  Normalization file ended early
+   tsje
+  Normalization file ended early
+   verre
+  Normalization file ended early
+   #
+  Normalization file ended early
+   tsjem
+  Normalization file ended early
+   inn
+  Uncertain:
+   å ja # da va tsje verre # tsjem inn
+            
+  Normalization file ended early
+   på
+  Uncertain:
+   ja # da va tsje verre # tsjem inn på
+            
+  116 utterances, 1309 tokens
+luster_04gk-ov.txt
+  Uncertain:
+   ikkje teke hånnd omm so mykje omm nå nåken vart
+   ikke tatt hånd om så mye om når noen ble
+  Normalization file ended early
+   værr
+  Normalization file ended early
+   se
+  Normalization file ended early
+   go
+  82 utterances, 1328 tokens
+luster_06uk-ov.txt
+  Normalization file ended early
+   ja
+  102 utterances, 2242 tokens
+lyngdal_01um-02uk.txt
+  396 utterances, 4173 tokens
+lyngdal_01um-mi.txt
+  Normalization file ended early
+   *
+  Normalization file ended early
+   ja
+  Normalization file ended early
+   *
+  Normalization file ended early
+   ja
+  122 utterances, 1832 tokens
+lyngdal_03gm-04gk.txt
+  399 utterances, 4078 tokens
+lyngdal_03gm-mi.txt
+  165 utterances, 2695 tokens
+lyngdal_04gk-sl.txt
+  165 utterances, 2335 tokens
+medby_74-75.txt
+  Normalization file ended early
+   jeg
+  Normalization file ended early
+   får
+  Normalization file ended early
+   litt
+  Normalization file ended early
+   vondt
+  Normalization file ended early
+   av
+  Normalization file ended early
+   den
+  Normalization file ended early
+   som
+  Normalization file ended early
+   er
+  311 utterances, 1951 tokens
+medby_74-jbj.txt
+  330 utterances, 3609 tokens
+medby_75-jbj.txt
+  239 utterances, 2204 tokens
+mefjordvaer_19-20.txt
+  Normalization file ended early
+   ja
+  Normalization file ended early
+   #
+  Normalization file ended early
+   æ
+  Normalization file ended early
+   tru
+  Normalization file ended early
+   vi
+  Normalization file ended early
+   må
+  460 utterances, 6083 tokens
+mefjordvaer_19-jbj.txt
+  Normalization file ended early
+   *
+  191 utterances, 3015 tokens
+mefjordvaer_20-mn.txt
+  Normalization file ended early
+   korr
+  Normalization file ended early
+   ho
+  Normalization file ended early
+   e
+  Normalization file ended early
+   kje
+  Normalization file ended early
+   anndre
+  189 utterances, 3091 tokens
+meraaker_01um-02uk.txt
+  474 utterances, 4704 tokens
+meraaker_01um-jk.txt
+  106 utterances, 1806 tokens
+meraaker_02uk-jk.txt
+  Normalization file ended early
+   ja
+  87 utterances, 2048 tokens
+meraaker_03gm-04gk.txt
+  Normalization file ended early
+   ja
+  Normalization file ended early
+   #
+  Normalization file ended early
+   de
+  Normalization file ended early
+   e
+  Normalization file ended early
+   bra
+  Normalization file ended early
+   ja
+  Normalization file ended early
+   #
+  Normalization file ended early
+   ja
+  Normalization file ended early
+   da
+  937 utterances, 7603 tokens
+meraaker_03gm-jk.txt
+  138 utterances, 2260 tokens
+meraaker_04gk-jk.txt
+  96 utterances, 1603 tokens
+mo_i_rana_01um-02uk.txt
+  536 utterances, 5527 tokens
+mo_i_rana_01um-ov.txt
+  198 utterances, 1508 tokens
+mo_i_rana_02uk-ov.txt
+  120 utterances, 1712 tokens
+mo_i_rana_03gm-04gk.txt
+  819 utterances, 6655 tokens
+mo_i_rana_03gm-ov.txt
+  184 utterances, 1724 tokens
+mo_i_rana_04gk-ov.txt
+  202 utterances, 2475 tokens
+myre_01um-02uk.txt
+  1196 utterances, 10139 tokens
+myre_01um-ov.txt
+  123 utterances, 1265 tokens
+myre_02uk-ov.txt
+  126 utterances, 1458 tokens
+myre_03gm-04gk.txt
+  864 utterances, 7974 tokens
+myre_03gm-ov.txt
+  103 utterances, 1059 tokens
+myre_04gk-ov.txt
+  193 utterances, 2940 tokens
+namdalen_01um-02uk.txt
+  415 utterances, 3788 tokens
+namdalen_01um-ran.txt
+  159 utterances, 1716 tokens
+namdalen_02uk-lks.txt
+  106 utterances, 1724 tokens
+namdalen_03gm-04gk.txt
+  321 utterances, 2533 tokens
+namdalen_03gm-ran.txt
+  416 utterances, 3660 tokens
+namdalen_04gk-ran.txt
+  282 utterances, 2747 tokens
+narvik_01um-02uk.txt
+  979 utterances, 7212 tokens
+narvik_01um-kb.txt
+  243 utterances, 2183 tokens
+narvik_02uk-kb.txt
+  202 utterances, 1969 tokens
+narvik_03gm-04gk.txt
+  Normalization file ended early
+   ja
+  Normalization file ended early
+   *
+  708 utterances, 8190 tokens
+narvik_03gm-kb.txt
+  261 utterances, 3548 tokens
+narvik_04gk-kb.txt
+  250 utterances, 2556 tokens
+nes_01um-02uk.txt
+  554 utterances, 5725 tokens
+nes_01um-ifg.txt
+  146 utterances, 1789 tokens
+nes_02uk-ifg.txt
+  189 utterances, 2687 tokens
+nes_03gm-04gk.txt
+  614 utterances, 7426 tokens
+nes_03gm-ifg.txt
+  157 utterances, 3007 tokens
+nes_04gk-ifg.txt
+  181 utterances, 2281 tokens
+nissedal_01um-02uk.txt
+  631 utterances, 5479 tokens
+nissedal_01um-sl.txt
+  104 utterances, 2744 tokens
+nissedal_02uk-sl.txt
+  68 utterances, 1585 tokens
+nissedal_03gm-04gk.txt
+  475 utterances, 4373 tokens
+nissedal_03gm-sl.txt
+  138 utterances, 2885 tokens
+nissedal_04gk-sl.txt
+  166 utterances, 1699 tokens
+oppdal_01um-02uk.txt
+  510 utterances, 4681 tokens
+oppdal_01um-ran.txt
+  156 utterances, 2165 tokens
+oppdal_02-31.txt
+  639 utterances, 7348 tokens
+oppdal_02-jbj.txt
+  Normalization file ended early
+   æin
+  Normalization file ended early
+   kann
+  Normalization file ended early
+   sei
+  Normalization file ended early
+   de
+  Normalization file ended early
+   sjlik
+  126 utterances, 1943 tokens
+oppdal_02uk-ran.txt
+  199 utterances, 2388 tokens
+oppdal_03gm-04gk.txt
+  458 utterances, 4350 tokens
+oppdal_03gm-ran.txt
+  159 utterances, 2043 tokens
+oppdal_04gk-ran.txt
+  158 utterances, 2235 tokens
+oppdal_10-24.txt
+  427 utterances, 4673 tokens
+oppdal_10-jbj.txt
+  139 utterances, 2362 tokens
+oppdal_24-jbj.txt
+  166 utterances, 2891 tokens
+oppdal_31-jbj.txt
+  156 utterances, 2073 tokens
+rauma_01um-02uk.txt
+  599 utterances, 5989 tokens
+rauma_01um-ma.txt
+  Normalization file ended early
+   mm
+  Normalization file ended early
+   #
+  Normalization file ended early
+   ja
+  Normalization file ended early
+   #
+  Normalization file ended early
+   bra
+  147 utterances, 2244 tokens
+rauma_02uk-ma.txt
+  159 utterances, 2338 tokens
+rauma_03gm-04gk.txt
+  402 utterances, 4598 tokens
+rauma_03gm-ma.txt
+  140 utterances, 1921 tokens
+rauma_04gk-ma.txt
+  111 utterances, 1828 tokens
+rena_01um-02uk.txt
+  486 utterances, 3480 tokens
+rena_01um-ifg.txt
+  254 utterances, 2620 tokens
+rena_02uk-ifg.txt
+  202 utterances, 2514 tokens
+rena_03gm-04gk.txt
+  Normalization file ended early
+   *
+  Normalization file ended early
+   *
+  Normalization file ended early
+   næi
+  Normalization file ended early
+   de
+  Normalization file ended early
+   …
+  Normalization file ended early
+   ja
+  540 utterances, 6572 tokens
+rena_03gm-ifg.txt
+  288 utterances, 4097 tokens
+rena_04gk-ifg.txt
+  228 utterances, 3746 tokens
+roemskog_01um-02uk.txt
+  839 utterances, 7778 tokens
+roemskog_01um-ks.txt
+  173 utterances, 2480 tokens
+roemskog_02uk-eo.txt
+  Uncertain:
+   ee denn ær ee jæ væit ette vorr ee elle
+   e den er e jeg veit ikke hvor e eller
+  248 utterances, 3464 tokens
+roemskog_03gm-04gk.txt
+  384 utterances, 3547 tokens
+roemskog_03gm-ks.txt
+  78 utterances, 1689 tokens
+roemskog_04gk-eo.txt
+  181 utterances, 1852 tokens
+roeros_01um-02uk.txt
+  690 utterances, 5696 tokens
+roeros_01um-amr.txt
+  160 utterances, 1805 tokens
+roeros_02uk-amr.txt
+  170 utterances, 1984 tokens
+roeros_03gm-04gk.txt
+  645 utterances, 6826 tokens
+roeros_03gm-amr.txt
+  160 utterances, 2689 tokens
+roeros_04gk-amr.txt
+  118 utterances, 1773 tokens
+rollag_01um-02uk.txt
+  456 utterances, 4617 tokens
+rollag_01um-amg.txt
+  164 utterances, 2333 tokens
+rollag_02uk-amg.txt
+  165 utterances, 2877 tokens
+rollag_03gm-04gk.txt
+  455 utterances, 4322 tokens
+rollag_03gm-amg.txt
+  170 utterances, 2371 tokens
+rollag_04gk-sl.txt
+  159 utterances, 2136 tokens
+selbu_01um-02uk.txt
+  Normalization file ended early
+   næi
+  297 utterances, 2011 tokens
+selbu_01um-jk.txt
+  157 utterances, 1590 tokens
+selbu_02uk-jk.txt
+  115 utterances, 1178 tokens
+selbu_03gm-04gk.txt
+  453 utterances, 4211 tokens
+selbu_03gm-jk.txt
+  Normalization file ended early
+   mm
+  Normalization file ended early
+   #
+  Normalization file ended early
+   ja
+  99 utterances, 2113 tokens
+selbu_04gk-jk.txt
+  118 utterances, 1541 tokens
+sirdal_01um-02uk.txt
+  302 utterances, 3368 tokens
+sirdal_01um-sl.txt
+  211 utterances, 2652 tokens
+sirdal_02uk-mi.txt
+  148 utterances, 3259 tokens
+sirdal_03gm-04gk.txt
+  369 utterances, 3982 tokens
+sirdal_03gm-mi.txt
+  137 utterances, 1977 tokens
+sirdal_04gk-sl.txt
+  158 utterances, 2047 tokens
+skaugdalen_36-43.txt
+  812 utterances, 5182 tokens
+skaugdalen_36-ma.txt
+  186 utterances, 2740 tokens
+skaugdalen_37-39.txt
+  620 utterances, 6053 tokens
+skaugdalen_37-pmk.txt
+  166 utterances, 2812 tokens
+skaugdalen_39-ma.txt
+  Normalization file ended early
+   *
+  Normalization file ended early
+   så
+  Normalization file ended early
+   de
+  Normalization file ended early
+   …
+  Normalization file ended early
+   *
+  122 utterances, 2217 tokens
+skaugdalen_43-pmk.txt
+  172 utterances, 2001 tokens
+skreia_01um-02uk.txt
+  649 utterances, 5918 tokens
+skreia_01um-as.txt
+  86 utterances, 1879 tokens
+skreia_02uk-as.txt
+  125 utterances, 2842 tokens
+skreia_03gm-04gk.txt
+  366 utterances, 3241 tokens
+skreia_03gm-sl.txt
+  216 utterances, 1990 tokens
+skreia_04gk-sl.txt
+  159 utterances, 2400 tokens
+soemna_01um-02uk.txt
+  991 utterances, 9644 tokens
+soemna_01um-ov.txt
+  103 utterances, 1232 tokens
+soemna_02uk-ov.txt
+  76 utterances, 1216 tokens
+soemna_03gm-04gk.txt
+  626 utterances, 6998 tokens
+soemna_03gm-ov.txt
+  213 utterances, 3205 tokens
+soemna_04gk-ov.txt
+  236 utterances, 3733 tokens
+sokndal_01um-02uk.txt
+  612 utterances, 5058 tokens
+sokndal_01um-jbj.txt
+  159 utterances, 2306 tokens
+sokndal_02uk-sr.txt
+  267 utterances, 2975 tokens
+sokndal_03gm-04gk.txt
+  Normalization file ended early
+   ikkje
+  Normalization file ended early
+   he
+  Normalization file ended early
+   me
+  785 utterances, 6881 tokens
+sokndal_03gm-jbj.txt
+  Normalization file ended early
+   ja
+  Normalization file ended early
+   men
+  Normalization file ended early
+   ee
+  Normalization file ended early
+   da
+  Normalization file ended early
+   tror
+  Normalization file ended early
+   jeg
+  Normalization file ended early
+   vi
+  Normalization file ended early
+   avslutter
+  Normalization file ended early
+   denne
+  Normalization file ended early
+   delen
+  Uncertain:
+   ja men ee da tror jeg vi avslutter denne delen
+            
+  266 utterances, 2967 tokens
+sokndal_04gk-jbj.txt
+  169 utterances, 2164 tokens
+stamsund_01um-02uk.txt
+  831 utterances, 8577 tokens
+stamsund_01um-ov.txt
+  107 utterances, 1289 tokens
+stamsund_02uk-ov.txt
+  116 utterances, 1768 tokens
+stamsund_03gm-04gk.txt
+  Normalization file ended early
+   mm
+  1044 utterances, 10108 tokens
+stamsund_03gm-ov.txt
+  144 utterances, 2223 tokens
+stamsund_04gk-ov.txt
+  Normalization file ended early
+   nei
+  Normalization file ended early
+   da
+  Normalization file ended early
+   nå
+  Normalization file ended early
+   er
+  Normalization file ended early
+   det
+  Normalization file ended early
+   bra
+  209 utterances, 3064 tokens
+stange_02uk-03gm.txt
+  Normalization file ended early
+   *
+  Normalization file ended early
+   tinng
+  Normalization file ended early
+   kann
+  Normalization file ended early
+   sje
+  Normalization file ended early
+   *
+  Normalization file ended early
+   ja
+  Normalization file ended early
+   appselutt
+  483 utterances, 7821 tokens
+stange_02uk-aml.txt
+  Normalization file ended early
+   ja
+  154 utterances, 2745 tokens
+stange_03gm-aml.txt
+  Normalization file ended early
+   ja
+  Normalization file ended early
+   #
+  Normalization file ended early
+   mm
+  Normalization file ended early
+   #
+  Normalization file ended early
+   men
+  Normalization file ended early
+   da
+  Normalization file ended early
+   trur
+  Normalization file ended early
+   jeg
+  Normalization file ended early
+   vi
+  106 utterances, 2226 tokens
+stange_06uk-07gm.txt
+  Normalization file ended early
+   *
+  Normalization file ended early
+   m
+  Normalization file ended early
+   ja
+  380 utterances, 4107 tokens
+stange_06uk-aml.txt
+  133 utterances, 2196 tokens
+stange_07gm-aml.txt
+  Normalization file ended early
+   *
+  Normalization file ended early
+   ja
+  Normalization file ended early
+   *
+  Normalization file ended early
+   ja
+  185 utterances, 2342 tokens
+stavanger_01um-02uk.txt
+  Normalization file ended early
+   ja
+  621 utterances, 5376 tokens
+stavanger_01um-ks.txt
+  Normalization file ended early
+   jess
+  142 utterances, 2026 tokens
+stavanger_02uk-sr.txt
+  Normalization file ended early
+   lurer
+  Normalization file ended early
+   på
+  Normalization file ended early
+   om
+  Normalization file ended early
+   det
+  Normalization file ended early
+   har
+  Normalization file ended early
+   gått
+  Normalization file ended early
+   ti
+  Normalization file ended early
+   minutter
+  Normalization file ended early
+   jeg
+  Normalization file ended early
+   da
+  Uncertain:
+   lurer på om det har gått ti minutter jeg da
+            
+  Normalization file ended early
+   #
+  Uncertain:
+   på om det har gått ti minutter jeg da #
+            
+  Normalization file ended early
+   ja
+  Uncertain:
+   om det har gått ti minutter jeg da # ja
+            
+  135 utterances, 1811 tokens
+stavanger_03gm-04gk.txt
+  Normalization file ended early
+   ja
+  Normalization file ended early
+   #
+  Normalization file ended early
+   eg
+  Normalization file ended early
+   lure
+  Normalization file ended early
+   på
+  Normalization file ended early
+   åmm
+  Normalization file ended early
+   eg
+  Normalization file ended early
+   må
+  Normalization file ended early
+   gå
+  Normalization file ended early
+   ud
+  Uncertain:
+   ja # eg lure på åmm eg må gå ud
+            
+  Normalization file ended early
+   å
+  Uncertain:
+   # eg lure på åmm eg må gå ud å
+            
+  Normalization file ended early
+   så
+  Uncertain:
+   eg lure på åmm eg må gå ud å så
+            
+  Normalization file ended early
+   hennta
+  Uncertain:
+   lure på åmm eg må gå ud å så hennta
+            
+  Normalization file ended early
+   di
+  Uncertain:
+   på åmm eg må gå ud å så hennta di
+            
+  Normalization file ended early
+   å
+  Uncertain:
+   åmm eg må gå ud å så hennta di å
+            
+  Normalization file ended early
+   sei
+  Uncertain:
+   eg må gå ud å så hennta di å sei
+            
+  Normalization file ended early
+   de
+  Uncertain:
+   må gå ud å så hennta di å sei de
+            
+  Normalization file ended early
+   att
+  Uncertain:
+   gå ud å så hennta di å sei de att
+            
+  Normalization file ended early
+   nå
+  Uncertain:
+   ud å så hennta di å sei de att nå
+            
+  Normalization file ended early
+   må
+  Uncertain:
+   å så hennta di å sei de att nå må
+            
+  Normalization file ended early
+   eg
+  Uncertain:
+   så hennta di å sei de att nå må eg
+            
+  Normalization file ended early
+   snart
+  Uncertain:
+   hennta di å sei de att nå må eg snart
+            
+  Normalization file ended early
+   jørr
+  Uncertain:
+   di å sei de att nå må eg snart jørr
+            
+  Normalization file ended early
+   megg
+  Uncertain:
+   å sei de att nå må eg snart jørr megg
+            
+  Normalization file ended early
+   klar
+  Uncertain:
+   sei de att nå må eg snart jørr megg klar
+            
+  458 utterances, 3795 tokens
+stavanger_03gm-ks.txt
+  243 utterances, 3035 tokens
+stavanger_04gk-sr.txt
+  181 utterances, 3240 tokens
+steigen_01um-02uk.txt
+  Normalization file ended early
+   å
+  Normalization file ended early
+   uff
+  Normalization file ended early
+   da
+  422 utterances, 4508 tokens
+steigen_01um-kb.txt
+  151 utterances, 1809 tokens
+steigen_02uk-kb.txt
+  153 utterances, 2239 tokens
+steigen_03gm-04gk.txt
+  750 utterances, 6683 tokens
+steigen_03gm-kb.txt
+  205 utterances, 3131 tokens
+steigen_04gk-kb.txt
+  248 utterances, 2581 tokens
+stokkoeya_24-29.txt
+  562 utterances, 5529 tokens
+stokkoeya_24-aml.txt
+  271 utterances, 3178 tokens
+stokkoeya_29-aml.txt
+  159 utterances, 2766 tokens
+stokkoeya_31-33.txt
+  Normalization file ended early
+   *
+  Normalization file ended early
+   åkei
+  329 utterances, 2462 tokens
+stokkoeya_31-ma.txt
+  195 utterances, 2180 tokens
+stokkoeya_33-pmk.txt
+  156 utterances, 2060 tokens
+stonglandseidet_47-50.txt
+  Normalization file ended early
+   ee
+  Normalization file ended early
+   takk
+  462 utterances, 6182 tokens
+stonglandseidet_47-jbj.txt
+  253 utterances, 3987 tokens
+stonglandseidet_50-jbj.txt
+  Normalization file ended early
+   ja
+  Normalization file ended early
+   #
+  Normalization file ended early
+   okei
+  Normalization file ended early
+   #
+  187 utterances, 2232 tokens
+stranda_01um-02uk.txt
+  591 utterances, 6163 tokens
+stranda_01um-ta.txt
+  155 utterances, 2172 tokens
+stranda_02uk-ta.txt
+  130 utterances, 1939 tokens
+stranda_03gm-04gk.txt
+  990 utterances, 7835 tokens
+stranda_03gm-ta.txt
+  199 utterances, 2196 tokens
+stranda_04gk-ta.txt
+  211 utterances, 2098 tokens
+stryn_01um-02uk.txt
+  750 utterances, 5659 tokens
+stryn_01um-as.txt
+  92 utterances, 1723 tokens
+stryn_02uk-as.txt
+  103 utterances, 1478 tokens
+stryn_03gm-04gk.txt
+  Uncertain:
+   honn åver elle honn sommd ittje hæilt åver dar låg
+   hun over eller hun svømte ikke helt over det lå
+  394 utterances, 3787 tokens
+stryn_03gm-as.txt
+  101 utterances, 1706 tokens
+stryn_04gk-as.txt
+  128 utterances, 1683 tokens
+suldal_01um-02uk.txt
+  Normalization file ended early
+   ja
+  Normalization file ended early
+   ittje
+  Normalization file ended early
+   de
+  Normalization file ended early
+   atte
+  Normalization file ended early
+   me
+  Normalization file ended early
+   #
+  Normalization file ended early
+   menn
+  Normalization file ended early
+   me
+  Normalization file ended early
+   fannt
+  Normalization file ended early
+   nåke
+  Uncertain:
+   ja ittje de atte me # menn me fannt nåke
+            
+  Normalization file ended early
+   tema
+  Uncertain:
+   ittje de atte me # menn me fannt nåke tema
+            
+  Normalization file ended early
+   så
+  Uncertain:
+   de atte me # menn me fannt nåke tema så
+            
+  Normalization file ended early
+   va
+  Uncertain:
+   atte me # menn me fannt nåke tema så va
+            
+  Normalization file ended early
+   litt
+  Uncertain:
+   me # menn me fannt nåke tema så va litt
+            
+  Normalization file ended early
+   løggne
+  Uncertain:
+   # menn me fannt nåke tema så va litt løggne
+            
+  Normalization file ended early
+   i
+  Uncertain:
+   menn me fannt nåke tema så va litt løggne i
+            
+  Normalization file ended early
+   …
+  Uncertain:
+   me fannt nåke tema så va litt løggne i …
+            
+  594 utterances, 5341 tokens
+suldal_01um-sr.txt
+  112 utterances, 1774 tokens
+suldal_02uk-ks.txt
+  139 utterances, 2272 tokens
+suldal_03gm-04gk.txt
+  814 utterances, 7040 tokens
+suldal_03gm-sr.txt
+  210 utterances, 2327 tokens
+surnadal_18-19.txt
+  530 utterances, 5119 tokens
+surnadal_18-jbj.txt
+  235 utterances, 2931 tokens
+surnadal_19-jbj.txt
+  237 utterances, 2870 tokens
+surnadal_28-29.txt
+  437 utterances, 3260 tokens
+surnadal_28-sl.txt
+  126 utterances, 1235 tokens
+surnadal_29-sl.txt
+  132 utterances, 1297 tokens
+sylling_01um-02uk.txt
+  Normalization file ended early
+   *
+  676 utterances, 4355 tokens
+sylling_01um-ahl.txt
+  99 utterances, 1766 tokens
+sylling_02uk-ahl.txt
+  256 utterances, 3265 tokens
+sylling_03gm-04gk.txt
+  540 utterances, 5118 tokens
+sylling_03gm-ahl.txt
+  136 utterances, 3191 tokens
+sylling_04gk-ahl.txt
+  134 utterances, 2478 tokens
+tana_01um-02uk.txt
+  620 utterances, 8342 tokens
+tana_01um-ov.txt
+  104 utterances, 1493 tokens
+tana_02uk-ov.txt
+  97 utterances, 1438 tokens
+tana_03gm-04gk.txt
+  913 utterances, 9275 tokens
+tana_03gm-ov.txt
+  215 utterances, 2450 tokens
+tana_04gk-ov.txt
+  186 utterances, 2170 tokens
+time_01um-02uk.txt
+  428 utterances, 3444 tokens
+time_01um-jbj.txt
+  Normalization file ended early
+   *
+  255 utterances, 2403 tokens
+time_02uk-sr.txt
+  135 utterances, 1771 tokens
+time_03gm-04gk.txt
+  451 utterances, 4999 tokens
+time_03gm-sr.txt
+  Normalization file ended early
+   ja
+  Normalization file ended early
+   men
+  Normalization file ended early
+   nå
+  Normalization file ended early
+   har
+  Normalization file ended early
+   vi
+  Normalization file ended early
+   det
+  Normalization file ended early
+   jo
+  108 utterances, 1862 tokens
+time_04gk-jbj.txt
+  Normalization file ended early
+   nei
+  Normalization file ended early
+   kan
+  Normalization file ended early
+   det
+  Normalization file ended early
+   være
+  Normalization file ended early
+   noe
+  186 utterances, 2219 tokens
+tinn_01um-05um.txt
+  477 utterances, 4155 tokens
+tinn_01um-sl.txt
+  Normalization file ended early
+   ja
+  Normalization file ended early
+   #
+  Normalization file ended early
+   jeg
+  Normalization file ended early
+   tror
+  Normalization file ended early
+   vi
+  Normalization file ended early
+   gir
+  Normalization file ended early
+   oss
+  Normalization file ended early
+   der
+  Normalization file ended early
+   jeg
+  Normalization file ended early
+   MI
+  Uncertain:
+   ja # jeg tror vi gir oss der jeg MI
+            
+  96 utterances, 1831 tokens
+tinn_03gm-04gk.txt
+  424 utterances, 3822 tokens
+tinn_03gm-mi.txt
+  Normalization file ended early
+   ja
+  165 utterances, 2582 tokens
+tinn_04gk-mi.txt
+  Normalization file ended early
+   det
+  Normalization file ended early
+   gikk
+  Normalization file ended early
+   veldig
+  Normalization file ended early
+   greit
+  174 utterances, 3266 tokens
+tinn_05um-sl.txt
+  129 utterances, 2570 tokens
+todalen_01um-02uk.txt
+  348 utterances, 2296 tokens
+todalen_01um-ta.txt
+  195 utterances, 2454 tokens
+todalen_02uk-ta.txt
+  155 utterances, 2009 tokens
+todalen_03gm-04gk.txt
+  776 utterances, 5940 tokens
+todalen_03gm-ta.txt
+  156 utterances, 1975 tokens
+todalen_04gk-ta.txt
+  319 utterances, 3214 tokens
+tromsoe_01um-02uk.txt
+  937 utterances, 8201 tokens
+tromsoe_01um-kb.txt
+  140 utterances, 2251 tokens
+tromsoe_02uk-kb.txt
+  141 utterances, 1946 tokens
+tromsoe_03gm-04gk.txt
+  841 utterances, 9215 tokens
+tromsoe_03gm-kb.txt
+  329 utterances, 4224 tokens
+tromsoe_04gk-kb.txt
+  273 utterances, 3410 tokens
+trondheim_01um-02uk.txt
+  602 utterances, 4543 tokens
+trondheim_01um-lks.txt
+  87 utterances, 1266 tokens
+trondheim_02uk-lks.txt
+  96 utterances, 1747 tokens
+trondheim_03gm-04gk.txt
+  Normalization file ended early
+   *
+  Normalization file ended early
+   ee
+  Normalization file ended early
+   å
+  Normalization file ended early
+   d-
+  516 utterances, 3845 tokens
+trondheim_03gm-ran.txt
+  212 utterances, 2241 tokens
+trondheim_04gk-ran.txt
+  260 utterances, 2111 tokens
+trysil_01um-02uk.txt
+  Uncertain:
+   bLir nåkk boon dær # ska itte rese nonn sta
+   blir nok boende der ## skal ikke reise noen stad
+  Normalization file ended early
+   ja
+  437 utterances, 3008 tokens
+trysil_01um-ifg.txt
+  156 utterances, 2133 tokens
+trysil_02uk-sl.txt
+  Normalization file ended early
+   men
+  Normalization file ended early
+   det
+  Normalization file ended early
+   er
+  Normalization file ended early
+   bra
+  Normalization file ended early
+   #
+  Normalization file ended early
+   men
+  Normalization file ended early
+   jeg
+  Normalization file ended early
+   tror
+  Normalization file ended early
+   vi
+  Normalization file ended early
+   sier
+  Uncertain:
+   men det er bra # men jeg tror vi sier
+            
+  Normalization file ended early
+   at
+  Uncertain:
+   det er bra # men jeg tror vi sier at
+            
+  Normalization file ended early
+   det
+  Uncertain:
+   er bra # men jeg tror vi sier at det
+            
+  Normalization file ended early
+   her
+  Uncertain:
+   bra # men jeg tror vi sier at det her
+            
+  Normalization file ended early
+   var
+  Uncertain:
+   # men jeg tror vi sier at det her var
+            
+  Normalization file ended early
+   bra
+  Uncertain:
+   men jeg tror vi sier at det her var bra
+            
+  190 utterances, 2132 tokens
+trysil_03gm-04gk.txt
+  407 utterances, 4328 tokens
+trysil_03gm-ifg.txt
+  95 utterances, 2339 tokens
+trysil_04gk-sl.txt
+  225 utterances, 2373 tokens
+valle_01um-02uk.txt
+  Uncertain:
+   inngkje byggd dæi nåkkå då vait do då tak dæi
+   ikke bygd dem noe da veit du da tar de
+  Normalization file ended early
+   ja
+  396 utterances, 5026 tokens
+valle_01um-sl.txt
+  126 utterances, 2557 tokens
+valle_02uk-eo.txt
+  180 utterances, 2523 tokens
+valle_03gm-04gk.txt
+  466 utterances, 3810 tokens
+valle_03gm-eo.txt
+  Normalization file ended early
+   mm
+  140 utterances, 2340 tokens
+valle_04gk-sl.txt
+  173 utterances, 1857 tokens
+vang_01um-02uk.txt
+  Normalization file ended early
+   *
+  Normalization file ended early
+   mm
+  439 utterances, 5139 tokens
+vang_01um-mi.txt
+  134 utterances, 2583 tokens
+vang_02uk-sl.txt
+  Normalization file ended early
+   ja
+  Normalization file ended early
+   go
+  Normalization file ended early
+   ide
+  Normalization file ended early
+   #
+  92 utterances, 1484 tokens
+vang_03gm-04gk.txt
+  Normalization file ended early
+   menn
+  Normalization file ended early
+   no
+  409 utterances, 4832 tokens
+vang_03gm-sl.txt
+  177 utterances, 3006 tokens
+vang_04gk-mi.txt
+  171 utterances, 2920 tokens
+vardoe_01um-02uk.txt
+  771 utterances, 10742 tokens
+vardoe_01um-kb.txt
+  186 utterances, 2886 tokens
+vardoe_02uk-kb.txt
+  216 utterances, 3771 tokens
+vardoe_03gm-04gk.txt
+  1157 utterances, 14413 tokens
+vardoe_03gm-kb.txt
+  277 utterances, 4048 tokens
+vardoe_04gk-kb.txt
+  395 utterances, 5647 tokens
+vegaarshei_01um-02uk.txt
+  542 utterances, 5656 tokens
+vegaarshei_01um-sl.txt
+  218 utterances, 3469 tokens
+vegaarshei_02uk-eo.txt
+  298 utterances, 5039 tokens
+vegaarshei_03gm-04gk.txt
+  446 utterances, 3896 tokens
+vegaarshei_03gm-sl.txt
+  148 utterances, 2408 tokens
+vegaarshei_04gk-eo.txt
+  162 utterances, 2325 tokens
+vennesla_01um-02uk.txt
+  682 utterances, 4837 tokens
+vennesla_01um-sl.txt
+  Normalization file ended early
+   skal
+  Normalization file ended early
+   jeg
+  Normalization file ended early
+   bare
+  Normalization file ended early
+   slå
+  Normalization file ended early
+   av
+  Normalization file ended early
+   det
+  Normalization file ended early
+   kameraet
+  Normalization file ended early
+   igjen
+  123 utterances, 2143 tokens
+vennesla_02uk-sl.txt
+  Normalization file ended early
+   ee
+  Normalization file ended early
+   greia
+  143 utterances, 2107 tokens
+vennesla_03gm-04gk.txt
+  589 utterances, 4107 tokens
+vennesla_03gm-sl.txt
+  Normalization file ended early
+   ja
+  Normalization file ended early
+   #
+  Normalization file ended early
+   det
+  Normalization file ended early
+   var
+  123 utterances, 2246 tokens
+vennesla_04gk-sl.txt
+  210 utterances, 2032 tokens
+vestre_slidre_03gm-04gk.txt
+  514 utterances, 4088 tokens
+vestre_slidre_03gm-ifg.txt
+  148 utterances, 1524 tokens
+vestre_slidre_04gk-ifg.txt
+  230 utterances, 2463 tokens
+vinje_01um-05um.txt
+  Uncertain:
+   omm me ha fenngje te re fenngje re te rå
+   om vi hadde fått til det fått det til da
+  377 utterances, 3385 tokens
+vinje_01um-as.txt
+  75 utterances, 982 tokens
+vinje_04gk-08gk.txt
+  Normalization file ended early
+   ja
+  Normalization file ended early
+   då
+  284 utterances, 3661 tokens
+vinje_04gk-sl.txt
+  Normalization file ended early
+   mm
+  128 utterances, 2489 tokens
+vinje_05um-as.txt
+  90 utterances, 1331 tokens
+vinje_08gk-sl.txt
+  Normalization file ended early
+   *
+  145 utterances, 1935 tokens
+volda_01um-02uk.txt
+  449 utterances, 4516 tokens
+volda_01um-amr.txt
+  93 utterances, 1669 tokens
+volda_02uk-amr.txt
+  154 utterances, 2045 tokens
+volda_03gm-04gk.txt
+  532 utterances, 4864 tokens
+volda_03gm-amr.txt
+  144 utterances, 2392 tokens
+volda_04gk-amr.txt
+  228 utterances, 2726 tokens
+voss_01um-02uk.txt
+  582 utterances, 5412 tokens
+voss_01um-sl.txt
+  170 utterances, 2383 tokens
+voss_02uk-mi.txt
+  121 utterances, 2077 tokens
+voss_03gm-04gk.txt
+  522 utterances, 5244 tokens
+voss_03gm-mi.txt
+  114 utterances, 2031 tokens
+voss_04gk-sl.txt
+  295 utterances, 2783 tokens
+Total:
+  201584 utterances, 2226451 tokens

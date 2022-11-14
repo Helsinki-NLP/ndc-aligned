@@ -10,12 +10,14 @@ The phonetic and orthographic transcriptions are available at (http://www.tekstl
 
 The aligned data is provided in vertical format with some light-weight XML structure. Each utterance is embedded in a `<u>` tag with a running id number and the speaker identifier. Each token is given on one line, with the phonetic transcription first and the orthographic transcription second.
 
-```<doc id="aal_01um-02uk">
+```
+<doc id="aal_01um-02uk">
 <u id="1" speaker="aal_01um">
 ja	ja
 ja	ja
 </u>
 ...
+</doc>
 ```
 
 The aligned data is provided in the `aligned` folder.

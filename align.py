@@ -106,8 +106,15 @@ def align(orig_f, norm_f, out_f, fileid):
 		if aligned != []:
 			n = ' missing_norm="yes"' if non_normalized else ''
 			out_f.write(f'<u id="{nb_utterances+1}" speaker="{orig_speaker}"{n}>\n')
-			for orig, norm in aligned:
-				out_f.write(f"{orig}\t{norm}\n")
+			for i, (orig, norm) in enumerate(aligned):
+				# fix one single occurrence of _ on the source side
+				if i+1 < len(aligned) and aligned[i+1][0] == "_":
+					norm2 = aligned[i+1][1]
+					out_f.write(f"{orig}\t{norm2}\n")
+				elif orig == "_":
+					pass
+				else:
+					out_f.write(f"{orig}\t{norm}\n")
 			nb_utterances += 1
 			nb_tokens += len(aligned)
 			out_f.write('</u>\n')
